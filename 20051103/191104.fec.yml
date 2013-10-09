@@ -1,0 +1,158 @@
+countraw: 3
+countrows: 1
+filename: 191104.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F1MN
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410357
+  - name: COMMITTEE NAME
+    number: '3'
+    value: KITPAC
+  - name: STREET 1
+    number: '4'
+    value: 147 N. Meramec
+  - name: STREET 2
+    number: '5'
+    value: ' Suite 100'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: St. Louis
+  - name: ZIP
+    number: '8'
+    value: MO
+  - name: COMMITTEE TYPE
+    number: '9'
+    value: '63105'
+  - name: Of Affiliation
+    number: 10-
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '11'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '12'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '13'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '14'
+    value: ''
+  - name: CAN/OFFICE
+    number: '15'
+    value: Craig Thomas
+  - name: CAN/STATE
+    number: '16'
+    value: S
+  - name: CAN/DIST
+    number: '17'
+    value: WY
+  - name: Of Contribution
+    number: 18-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '19'
+    value: '20050331'
+  - name: CANDIDATE NAME
+    number: '20'
+    value: ''
+  - name: CAN/OFFICE
+    number: '21'
+    value: Pat Roberts
+  - name: CAN/STATE
+    number: '22'
+    value: S
+  - name: CAN/DIST
+    number: '23'
+    value: KS
+  - name: Of Contribution
+    number: 24-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '25'
+    value: '20050331'
+  - name: CANDIDATE NAME
+    number: '26'
+    value: ''
+  - name: CAN/OFFICE
+    number: '27'
+    value: Mike DeWine
+  - name: CAN/STATE
+    number: '28'
+    value: S
+  - name: CAN/DIST
+    number: '29'
+    value: OH
+  - name: Of Contribution
+    number: 30-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '31'
+    value: '20050331'
+  - name: CANDIDATE NAME
+    number: '32'
+    value: ''
+  - name: CAN/OFFICE
+    number: '33'
+    value: Conrad Burns
+  - name: CAN/STATE
+    number: '34'
+    value: S
+  - name: CAN/DIST
+    number: '35'
+    value: MT
+  - name: Of Contribution
+    number: 36-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '37'
+    value: '20050331'
+  - name: CANDIDATE NAME
+    number: '38'
+    value: ''
+  - name: CAN/OFFICE
+    number: '39'
+    value: Gordon Smith
+  - name: CAN/STATE
+    number: '40'
+    value: S
+  - name: CAN/DIST
+    number: '41'
+    value: VA
+  - name: Of Contribution
+    number: 42-
+    value: '  '
+  - name: Of 51st Contributor
+    number: 43-
+    value: '20050331'
+  - name: Of Orig Registration
+    number: 44-
+    value: '20050503'
+  - name: Cmte Met Requirements
+    number: 45-
+    value: '20050323'
+  - name: NAME/TREASURER (as signed)
+    number: '46'
+    value: '20050923'
+  - name: Signed
+    number: 47-
+    value: Heather Grote
+  - value: '20051103'
+  expected_count: 47
+  input: '"F1MN","C00410357","KITPAC","147 N. Meramec, Suite 100","","St. Louis","MO","63105","N",,"","","","Craig
+    Thomas","S","WY",  ,20050331,"","Pat Roberts","S","KS",  ,20050331,"","Mike DeWine","S","OH",  ,20050331,"","Conrad
+    Burns","S","MT",  ,20050331,"","Gordon Smith","S","VA",  ,20050331,20050503,20050323,20050923,"Heather
+    Grote",20051103'
+  input_count: 48
+  record: <fec.version.v5_2.F1M.Records instance at 0x1dcc3f8>
+  result: []
+sourceurl: !!python/unicode 20051103
+type: single
