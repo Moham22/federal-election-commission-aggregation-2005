@@ -1,0 +1,125 @@
+countraw: 3
+countrows: 1
+filename: 163805.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H4TX22023
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 7002 Riverbrook Drive.
+  - name: STREET 2
+    number: '5'
+    value: ' Ste. 200'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Sugar Land
+  - name: ZIP
+    number: '8'
+    value: TX
+  - name: PTY/CODE
+    number: '9'
+    value: '77479   '
+  - name: CAN/OFFICE
+    number: '10'
+    value: REP
+  - name: CAN/STATE
+    number: '11'
+    value: H
+  - name: CAN/DIST
+    number: '12'
+    value: TX
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '22'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: '2006'
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: ''
+  - name: STREET 1
+    number: '16'
+    value: Tom DeLay Congressional Committee
+  - name: STREET 2
+    number: '17'
+    value: 7002 Riverbrook Drive
+  - name: CITY
+    number: '18'
+    value: ' Ste. 200'
+  - name: STATE
+    number: '19'
+    value: ''
+  - name: ZIP
+    number: '20'
+    value: Sugar Land
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: TX
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: '77479   '
+  - name: STREET 1
+    number: '23'
+    value: '        '
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: ' '
+  - name: Signed
+    number: 29-
+    value: '       '
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: Thomas Dale DeLay
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '20050131'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: '0.00'
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: '0.00'
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: Dale DeLay
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: Thomas
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+  - value: ''
+  - value: ''
+  expected_count: 36
+  input: '"F2","H4TX22023","","7002 Riverbrook Drive., Ste. 200","","Sugar Land","TX","77479   ","REP","H","TX",22,2006,"","Tom
+    DeLay Congressional Committee","7002 Riverbrook Drive, Ste. 200","","Sugar Land","TX","77479   ","        ","","","","","
+    ","       ","Thomas Dale DeLay",20050131,0.00,0.00,"Dale DeLay","Thomas","","",""'
+  input_count: 38
+  record: <fec.version.v5_1.F2.Records instance at 0x1d627a0>
+  result: []
+sourceurl: !!python/unicode 20050201
+type: single
