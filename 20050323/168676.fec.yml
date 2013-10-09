@@ -1,0 +1,125 @@
+countraw: 3
+countrows: 1
+filename: 168676.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H6NJ08118
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 441 Ninth Avenue
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Paterson
+  - name: STATE
+    number: '7'
+    value: NJ
+  - name: ZIP
+    number: '8'
+    value: '07514   '
+  - name: PTY/CODE
+    number: '9'
+    value: DEM
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: NJ
+  - name: CAN/DIST
+    number: '12'
+    value: '8 '
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: ''
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: Pascrell for Congress
+  - name: STREET 1
+    number: '16'
+    value: ' Inc.'
+  - name: STREET 2
+    number: '17'
+    value: POB 640
+  - name: CITY
+    number: '18'
+    value: ''
+  - name: STATE
+    number: '19'
+    value: Totowa
+  - name: ZIP
+    number: '20'
+    value: NJ
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: '07511   '
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: '        '
+  - name: STREET 1
+    number: '23'
+    value: NONE
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ' '
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: '       '
+  - name: Signed
+    number: 29-
+    value: William J. Pascrell
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: ' Jr.'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '20050323'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: '0.00'
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: '0.00'
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: William J. Pascrell
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: Jr.
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+  - value: ''
+  - value: ''
+  expected_count: 36
+  input: '"F2","H6NJ08118","","441 Ninth Avenue","","Paterson","NJ","07514   ","DEM","H","NJ",8
+    ,2006,"","Pascrell for Congress, Inc.","POB 640","","Totowa","NJ","07511   ","        ","NONE","","","","
+    ","       ","William J. Pascrell, Jr.",20050323,0.00,0.00,"William J. Pascrell","Jr.","","",""'
+  input_count: 38
+  record: <fec.version.v5_2.F2.Records instance at 0xcb87c68>
+  result: []
+sourceurl: !!python/unicode 20050323
+type: single
