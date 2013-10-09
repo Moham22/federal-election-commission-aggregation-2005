@@ -1,0 +1,121 @@
+countraw: 3
+countrows: 1
+filename: 186053.fec
+header: {}
+rows:
+- input: '"F2","H2IN06023","","12141 East 79th Street","","Indianapolis","IN","46236","REP","H","IN",5,2006,"C00145862","Dan
+    Burton for Congress Committee","P.O. Box 50593","","Indianapolis","IN","46250","C00145862","Dan
+    Burton for Congress Committee","P.O. Box 50593","","Indianapolis","IN","46250","Danny
+    L. Burton",20050913,0.00,0.00,"Burton","Danny","L.","",""'
+  record: <fec.version.v5_2.F2.Records instance at 0x240f17e8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H2IN06023
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 12141 East 79th Street
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Indianapolis
+  - name: STATE
+    number: '7'
+    value: IN
+  - name: ZIP
+    number: '8'
+    value: '46236'
+  - name: PTY/CODE
+    number: '9'
+    value: REP
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: IN
+  - name: CAN/DIST
+    number: '12'
+    value: '5'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: C00145862
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: Dan Burton for Congress Committee
+  - name: STREET 1
+    number: '16'
+    value: P.O. Box 50593
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: Indianapolis
+  - name: STATE
+    number: '19'
+    value: IN
+  - name: ZIP
+    number: '20'
+    value: '46250'
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: C00145862
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: Dan Burton for Congress Committee
+  - name: STREET 1
+    number: '23'
+    value: P.O. Box 50593
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: Indianapolis
+  - name: STATE
+    number: '26'
+    value: IN
+  - name: ZIP
+    number: '27'
+    value: '46250'
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: Danny L. Burton
+  - name: Signed
+    number: 29-
+    value: '20050913'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0.00'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: Burton
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: Danny
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: L.
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+sourceurl: !!python/unicode 20050913
+type: single
