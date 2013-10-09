@@ -1,0 +1,478 @@
+countraw: 8
+countrows: 6
+filename: 175472.fec
+header: {}
+rows:
+- input: '"F6","C00410456","Pat DeWine For Congress","4440 Glen Este Withamsville
+    Road","Suite 302","Cincinnati","OH","452451331","H6OH02078","Pat  DeWine","H","OH","12","20050527"'
+  record: <fec.version.v5_2.F6.Records instance at 0x1dcc128>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Pat DeWine For Congress
+  - name: STREET 1
+    number: '4'
+    value: 4440 Glen Este Withamsville Road
+  - name: STREET 2
+    number: '5'
+    value: Suite 302
+  - name: CITY
+    number: '6'
+    value: Cincinnati
+  - name: STATE
+    number: '7'
+    value: OH
+  - name: ZIP
+    number: '8'
+    value: '452451331'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '9'
+    value: H6OH02078
+  - name: CANDIDATE NAME
+    number: '10'
+    value: Pat  DeWine
+  - name: CAN/OFFICE
+    number: '11'
+    value: H
+  - name: CAN/STATE
+    number: '12'
+    value: OH
+  - name: CAN/DIST
+    number: '13'
+    value: '12'
+  - name: Signed
+    number: 14-
+    value: '20050527'
+- input: '"F65","C00410456","IND","Bley^Ruth^^","3300 Kuliga Park Drive","","Cincinnati","OH","452482863","","Civic
+    Volunteer","20050526","2100","C00235572","","","","","","","","","","","","","F65-I-c610"'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc0e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Bley^Ruth^^
+  - name: STREET 1
+    number: '5'
+    value: 3300 Kuliga Park Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cincinnati
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '452482863'
+  - name: INDEMP
+    number: '10'
+    value: ''
+  - name: INDOCC
+    number: '11'
+    value: Civic Volunteer
+  - name: Of Contribution
+    number: 12-
+    value: '20050526'
+  - name: AMOUNT
+    number: '13'
+    value: '2100'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00235572
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F65-I-c610
+- input: '"F65","C00410456","IND","Bley^Dennis^^","3300 Kuliga Park Drive","","Cincinnati","OH","452482863","Schoch
+    Tile & Carpet","Executive","20050526","2100","C00150797","","","","","","","","","","","","","F65-I-c609"'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc128>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Bley^Dennis^^
+  - name: STREET 1
+    number: '5'
+    value: 3300 Kuliga Park Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cincinnati
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '452482863'
+  - name: INDEMP
+    number: '10'
+    value: Schoch Tile & Carpet
+  - name: INDOCC
+    number: '11'
+    value: Executive
+  - name: Of Contribution
+    number: 12-
+    value: '20050526'
+  - name: AMOUNT
+    number: '13'
+    value: '2100'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00150797
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F65-I-c609
+- input: '"F65","C00410456","IND","Meyer^Douglas^Mr.^","5144 Wesselman Woods Drive","","Cleves","OH","450028609","Meyer
+    Homes","Builder","20050526","2100","","","","","","","","","","","","","","F65-I-c607"'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dccef0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Meyer^Douglas^Mr.^
+  - name: STREET 1
+    number: '5'
+    value: 5144 Wesselman Woods Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cleves
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '450028609'
+  - name: INDEMP
+    number: '10'
+    value: Meyer Homes
+  - name: INDOCC
+    number: '11'
+    value: Builder
+  - name: Of Contribution
+    number: 12-
+    value: '20050526'
+  - name: AMOUNT
+    number: '13'
+    value: '2100'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F65-I-c607
+- input: '"F65","C00410456","ORG","FAA Managers Association PAC","1919 Pennsylvania
+    Avenue NW","Suite 600","Washington","DC","200063420","","","20050526","2500","C00366070","","","","","","","","","","","","","F65-O-c606"'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc488>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: FAA Managers Association PAC
+  - name: STREET 1
+    number: '5'
+    value: 1919 Pennsylvania Avenue NW
+  - name: STREET 2
+    number: '6'
+    value: Suite 600
+  - name: CITY
+    number: '7'
+    value: Washington
+  - name: STATE
+    number: '8'
+    value: DC
+  - name: ZIP
+    number: '9'
+    value: '200063420'
+  - name: INDEMP
+    number: '10'
+    value: ''
+  - name: INDOCC
+    number: '11'
+    value: ''
+  - name: Of Contribution
+    number: 12-
+    value: '20050526'
+  - name: AMOUNT
+    number: '13'
+    value: '2500'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00366070
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F65-O-c606
+- input: '"F65","C00410456","IND","Meyer^Laura^^","5144 Wesselman Woods Drive","","Cleves","OH","450028609","","Civic
+    Volunteer","20050526","2100","C00024968","","","","","","","","","","","","","F65-I-c608"'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc128>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00410456
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Meyer^Laura^^
+  - name: STREET 1
+    number: '5'
+    value: 5144 Wesselman Woods Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cleves
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '450028609'
+  - name: INDEMP
+    number: '10'
+    value: ''
+  - name: INDOCC
+    number: '11'
+    value: Civic Volunteer
+  - name: Of Contribution
+    number: 12-
+    value: '20050526'
+  - name: AMOUNT
+    number: '13'
+    value: '2100'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00024968
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F65-I-c608
+sourceurl: !!python/unicode 20050527
+type: single
