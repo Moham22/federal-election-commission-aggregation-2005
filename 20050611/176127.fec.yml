@@ -1,0 +1,312 @@
+countraw: 6
+countrows: 4
+filename: 176127.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00411207
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Hackett for Congress
+  - name: STREET 1
+    number: '4'
+    value: 27 N. 2nd Street
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Batavia
+  - name: STATE
+    number: '7'
+    value: OH
+  - name: ZIP
+    number: '8'
+    value: '45103'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '9'
+    value: H6OH02094
+  - name: CANDIDATE NAME
+    number: '10'
+    value: Paul Lewis Hackett
+  - name: CAN/OFFICE
+    number: '11'
+    value: ' III'
+  - name: CAN/STATE
+    number: '12'
+    value: H
+  - name: CAN/DIST
+    number: '13'
+    value: OH
+  - name: Signed
+    number: 14-
+    value: '2'
+  - value: '20050611'
+  expected_count: 14
+  input: '"F6","C00411207","Hackett for Congress","27 N. 2nd Street","","Batavia","OH","45103","H6OH02094","Paul
+    Lewis Hackett, III","H","OH","2","20050611"'
+  input_count: 15
+  record: <fec.version.v5_2.F6.Records instance at 0x2705710>
+  result: []
+- input: '"F65","C00411207","PAC","Machinists Non Partisan Political League","9000
+    Machinists Place",".","Upper Marlboro","MD","20772","International Assoc. of Machinists
+    & A","Director of Legislative Affairs","20050610","5000.00","C00002469","","","","","","","","","","","","","C3132093"'
+  record: <fec.version.v5_2.F65.Records instance at 0x2705638>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00411207
+  - name: ENTITY TYPE
+    number: '3'
+    value: PAC
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Machinists Non Partisan Political League
+  - name: STREET 1
+    number: '5'
+    value: 9000 Machinists Place
+  - name: STREET 2
+    number: '6'
+    value: .
+  - name: CITY
+    number: '7'
+    value: Upper Marlboro
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '20772'
+  - name: INDEMP
+    number: '10'
+    value: International Assoc. of Machinists & A
+  - name: INDOCC
+    number: '11'
+    value: Director of Legislative Affairs
+  - name: Of Contribution
+    number: 12-
+    value: '20050610'
+  - name: AMOUNT
+    number: '13'
+    value: '5000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00002469
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: C3132093
+- input: '"F65","C00411207","IND","Hackett^Suzanne C.","9400 Given Road","","Cincinnati","OH","45243","Self","Mother","20050610","2100.00","","","","","","","","","","","","","","C3132092"'
+  record: <fec.version.v5_2.F65.Records instance at 0x2705680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00411207
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Hackett^Suzanne C.
+  - name: STREET 1
+    number: '5'
+    value: 9400 Given Road
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cincinnati
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '45243'
+  - name: INDEMP
+    number: '10'
+    value: Self
+  - name: INDOCC
+    number: '11'
+    value: Mother
+  - name: Of Contribution
+    number: 12-
+    value: '20050610'
+  - name: AMOUNT
+    number: '13'
+    value: '2100.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: C3132092
+- input: '"F65","C00411207","IND","Shelby^Sky L","4853 Bradford Chase","","Mason","OH","45040","Shelby
+    Chiropractic","Chiropractor","20050610","1000.00","","","","","","","","","","","","","","C3132164"'
+  record: <fec.version.v5_2.F65.Records instance at 0x2705638>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00411207
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Shelby^Sky L
+  - name: STREET 1
+    number: '5'
+    value: 4853 Bradford Chase
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Mason
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '45040'
+  - name: INDEMP
+    number: '10'
+    value: Shelby Chiropractic
+  - name: INDOCC
+    number: '11'
+    value: Chiropractor
+  - name: Of Contribution
+    number: 12-
+    value: '20050610'
+  - name: AMOUNT
+    number: '13'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: C3132164
+sourceurl: !!python/unicode 20050611
+type: single
