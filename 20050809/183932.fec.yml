@@ -1,0 +1,484 @@
+countraw: 8
+countrows: 6
+filename: 183932.fec
+header: {}
+rows:
+- input: '"F6N","C00409219","Matsui for Congress (SPECIAL)","P.O. Box 1738",,"Sacramento","CA","95812","H6CA05195","Matsui^Doris","H","CA","5","20050809"'
+  record: <fec.version.v5_2.F6.Records instance at 0x1dcc998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Matsui for Congress (SPECIAL)
+  - name: STREET 1
+    number: '4'
+    value: P.O. Box 1738
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Sacramento
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '95812'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '9'
+    value: H6CA05195
+  - name: CANDIDATE NAME
+    number: '10'
+    value: Matsui^Doris
+  - name: CAN/OFFICE
+    number: '11'
+    value: H
+  - name: CAN/STATE
+    number: '12'
+    value: CA
+  - name: CAN/DIST
+    number: '13'
+    value: '5'
+  - name: Signed
+    number: 14-
+    value: '20050809'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Barbara D. Gualco
+  - name: STREET 1
+    number: '5'
+    value: 11230 Gold Express Dr.
+  - name: STREET 2
+    number: '6'
+    value: ' #310'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Gold River
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: INDEMP
+    number: '10'
+    value: '90670'
+  - name: INDOCC
+    number: '11'
+    value: The Gualco Group Inc.
+  - name: Of Contribution
+    number: 12-
+    value: Consultant
+  - name: AMOUNT
+    number: '13'
+    value: '20050217'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '1000.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F651126
+  expected_count: 27
+  input: '"F65","C00409219","IND","Barbara D. Gualco","11230 Gold Express Dr., #310",,"Gold
+    River","CA","90670","The Gualco Group Inc.","Consultant","20050217","1000.00","",,"","","","",,,,,,,,F651126'
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc0e0>
+  result: []
+- input: '"F65","C00409219","IND","Paula A. Higashi","9101 Laguna Lake Way",,"Elk
+    Grove","CA","95758","State of CA","Executive Director","20050217","500.00","",,"","","","",,,,,,,,F651225'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Paula A. Higashi
+  - name: STREET 1
+    number: '5'
+    value: 9101 Laguna Lake Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Elk Grove
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '95758'
+  - name: INDEMP
+    number: '10'
+    value: State of CA
+  - name: INDOCC
+    number: '11'
+    value: Executive Director
+  - name: Of Contribution
+    number: 12-
+    value: '20050217'
+  - name: AMOUNT
+    number: '13'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F651225
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: ENTITY TYPE
+    number: '3'
+    value: COM
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: IBEW Cope
+  - name: STREET 1
+    number: '5'
+    value: 901 7th St.
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: INDEMP
+    number: '10'
+    value: '20001'
+  - name: INDOCC
+    number: '11'
+    value: ''
+  - name: Of Contribution
+    number: 12-
+    value: ''
+  - name: AMOUNT
+    number: '13'
+    value: '20050217'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '5000.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F651124
+  expected_count: 27
+  input: '"F65","C00409219","COM","IBEW Cope","901 7th St., NW",,"Washington","DC","20001","","","20050217","5000.00","",,"","","","",,,,,,,,F651124'
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc0e0>
+  result: []
+- input: '"F65","C00409219","COM","Respon. Citizens Pol. League A Project of the Transport.
+    Comm. Int''l Union","3 Research Place",,"Rockville","MD","20850","","","20050217","1000.00","C00006338",,"","","","",,,,,,,,F651125'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcc998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: ENTITY TYPE
+    number: '3'
+    value: COM
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Respon. Citizens Pol. League A Project of the Transport. Comm. Int'l Union
+  - name: STREET 1
+    number: '5'
+    value: 3 Research Place
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Rockville
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '20850'
+  - name: INDEMP
+    number: '10'
+    value: ''
+  - name: INDOCC
+    number: '11'
+    value: ''
+  - name: Of Contribution
+    number: 12-
+    value: '20050217'
+  - name: AMOUNT
+    number: '13'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00006338
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F651125
+- input: '"F65","C00409219","IND","Keith K. Umemoto","2520 Ventura Oaks Ste. 35",,"Sacramento","CA","95833","State
+    of CA","Exec. Dir. OS Standards Board","20050217","100.00","",,"","","","",,,,,,,,F651246'
+  record: <fec.version.v5_2.F65.Records instance at 0x1dccc20>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00409219
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Keith K. Umemoto
+  - name: STREET 1
+    number: '5'
+    value: 2520 Ventura Oaks Ste. 35
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Sacramento
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '95833'
+  - name: INDEMP
+    number: '10'
+    value: State of CA
+  - name: INDOCC
+    number: '11'
+    value: Exec. Dir. OS Standards Board
+  - name: Of Contribution
+    number: 12-
+    value: '20050217'
+  - name: AMOUNT
+    number: '13'
+    value: '100.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '16'
+    value: ''
+  - name: CAN/OFFICE
+    number: '17'
+    value: ''
+  - name: CAN/STATE
+    number: '18'
+    value: ''
+  - name: CAN/DIST
+    number: '19'
+    value: ''
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F651246
+sourceurl: !!python/unicode 20050809
+type: single
