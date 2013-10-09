@@ -1,0 +1,7561 @@
+countraw: 54
+countrows: 52
+filename: 178251.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: COMMITTEE NAME
+    number: '3'
+    value: National Right to Life Political Action Committee
+  - name: STREET 1
+    number: '4'
+    value: 512 10th Street
+  - name: STREET 2
+    number: '5'
+    value: ' N.W.'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Washington
+  - name: ZIP
+    number: '8'
+    value: DC
+  - name: NAME/TREASURER (as signed)
+    number: '9'
+    value: '20004   '
+  - name: Signed
+    number: 10-
+    value: Amarie C. Natividad
+  - name: REPORT TYPE
+    number: '11'
+    value: '20050707'
+  - value: '24'
+  expected_count: 11
+  input: '"F24","C00111278","National Right to Life Political Action Committee","512
+    10th Street, N.W.","","Washington","DC","20004   ","Amarie C. Natividad",20050707,"24"'
+  input_count: 12
+  record: <fec.version.v5_2.F24.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '33348.47'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11694
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    calls",20041029,33348.47,"S","P00003335","BUSH, GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11694","X","","","","G2004","","","24E",2078919.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV Calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '357.68'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S8KY00118
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUNNING
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JIM'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: KY
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11695
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '29355.97'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    Calls",20041029,357.68,"S","S8KY00118","BUNNING, JIM","S","KY",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11695","X","","","","G2004","","","24E",29355.97'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV Calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '186.29'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S6MO00289
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BOND
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' CHRISTOPHER S'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: MO
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11696
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '29483.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    Calls",20041029,186.29,"S","S6MO00289","BOND, CHRISTOPHER S","S","MO",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11696","X","","","","G2004","","","24E",29483.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Lara Bode
+  - name: STREET 1
+    number: '5'
+    value: 512 10th Street
+  - name: STREET 2
+    number: '6'
+    value: ' N.W.'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '20004    '
+  - name: DATE
+    number: '11'
+    value: MealsLodgingTransp.
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '402.24'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: P00003335
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: BUSH
+  - name: S/O STATE
+    number: '17'
+    value: ' GEORGE W'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: P
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: '03'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11499
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Lara Bode","512 10th Street, N.W.","","Washington","DC","20004    ","MealsLodgingTransp.",20041029,402.24,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11499","","","","","G2004","","","24E",2078919.14'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '6937.64'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: S4FL00298
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: MARTINEZ
+  - name: S/O STATE
+    number: '17'
+    value: ' MEL'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: S
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: FL
+  - name: Unused field
+    number: '20'
+    value: '00'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11550
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '194801.01'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,6937.64,"S","S4FL00298","MARTINEZ, MEL","S","FL",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11550","","","","","G2004","","","24E",194801.01'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '3414.40'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: S4CO00189
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: COORS
+  - name: S/O STATE
+    number: '17'
+    value: ' PETER'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: S
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: CO
+  - name: Unused field
+    number: '20'
+    value: '00'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11551
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '45772.82'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,3414.40,"S","S4CO00189","COORS, PETER","S","CO",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11551","","","","","G2004","","","24E",45772.82'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '85228.19'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: P00003335
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: BUSH
+  - name: S/O STATE
+    number: '17'
+    value: ' GEORGE W'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: P
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: '03'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11534
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,85228.19,"S","P00003335","BUSH, GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11534","","","","","G2004","","","24E",2078919.14'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '166.58'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4WA05077
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: MCMORRIS
+  - name: S/O STATE
+    number: '17'
+    value: ' CATHY'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: WA
+  - name: Unused field
+    number: '20'
+    value: '05'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11537
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '3190.25'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,166.58,"S","H4WA05077","MCMORRIS, CATHY","H","WA",05,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11537","","","","","G2004","","","24E",3190.25'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '148.08'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4WA08071
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: REICHERT
+  - name: S/O STATE
+    number: '17'
+    value: ' DAVE'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: WA
+  - name: Unused field
+    number: '20'
+    value: 08
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11536
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '1499.49'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,148.08,"S","H4WA08071","REICHERT, DAVE","H","WA",08,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11536","","","","","G2004","","","24E",1499.49'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '248.53'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H6VA10050
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: R. WOLF
+  - name: S/O STATE
+    number: '17'
+    value: ' FRANK'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: VA
+  - name: Unused field
+    number: '20'
+    value: '10'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11538
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '1167.92'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,248.53,"S","H6VA10050","R. WOLF, FRANK","H","VA",10,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11538","","","","","G2004","","","24E",1167.92'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '405.76'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4VA09032
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: TRIPLETT
+  - name: S/O STATE
+    number: '17'
+    value: ' KEVIN R.'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: VA
+  - name: Unused field
+    number: '20'
+    value: 09
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11539
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2062.74'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,405.76,"S","H4VA09032","TRIPLETT, KEVIN R.","H","VA",09,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11539","","","","","G2004","","","24E",2062.74'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '208.92'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: O
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4VA02029
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ASHE
+  - name: S/O STATE
+    number: '17'
+    value: ' DAVID B'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: VA
+  - name: Unused field
+    number: '20'
+    value: '02'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11540
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24A
+  - value: '3655.17'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,208.92,"O","H4VA02029","ASHE, DAVID B","H","VA",02,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11540","","","","","G2004","","","24A",3655.17'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: S4  GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '1798.06'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: S4SC00083
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: DEMINT
+  - name: S/O STATE
+    number: '17'
+    value: ' JAMES W'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: S
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: SC
+  - name: Unused field
+    number: '20'
+    value: '00'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11541
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '26451.21'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","S4  GOTV
+    calls",20041029,1798.06,"S","S4SC00083","DEMINT, JAMES W","S","SC",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11541","","","","","G2004","","","24E",26451.21'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '394.74'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4OH19036
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: LATOURETTE
+  - name: S/O STATE
+    number: '17'
+    value: ' STEVEN C'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: OH
+  - name: Unused field
+    number: '20'
+    value: '19'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11542
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '8882.20'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,394.74,"S","H4OH19036","LATOURETTE, STEVEN C","H","OH",19,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11542","","","","","G2004","","","24E",8882.20'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '340.53'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H8NJ06118
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: FERGUSON
+  - name: S/O STATE
+    number: '17'
+    value: ' MIKE'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: NJ
+  - name: Unused field
+    number: '20'
+    value: '06'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11543
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '1497.98'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,340.53,"S","H8NJ06118","FERGUSON, MIKE","H","NJ",06,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11543","","","","","G2004","","","24E",1497.98'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '357.23'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H0NV01078
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: PORTER
+  - name: S/O STATE
+    number: '17'
+    value: ' JON C SR'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: NV
+  - name: Unused field
+    number: '20'
+    value: '01'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11544
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2783.02'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,357.23,"S","H0NV01078","PORTER, JON C SR","H","NV",01,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11544","","","","","G2004","","","24E",2783.02'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '516.09'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H0MN02035
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: KENNEDY
+  - name: S/O STATE
+    number: '17'
+    value: ' MARK RAYMOND'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: MN
+  - name: Unused field
+    number: '20'
+    value: '02'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11545
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '516.09'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,516.09,"S","H0MN02035","KENNEDY, MARK RAYMOND","H","MN",02,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11545","","","","","G2004","","","24E",516.09'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '592.65'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H8MN06047
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: KLINE
+  - name: S/O STATE
+    number: '17'
+    value: ' JOHN P'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: MN
+  - name: Unused field
+    number: '20'
+    value: '06'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11546
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '592.65'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,592.65,"S","H8MN06047","KLINE, JOHN P","H","MN",06,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11546","","","","","G2004","","","24E",592.65'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: H4  GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '797.37'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4KS03105
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: KOBACH
+  - name: S/O STATE
+    number: '17'
+    value: ' KRIS'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: KS
+  - name: Unused field
+    number: '20'
+    value: '03'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11547
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '8269.74'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","H4  GOTV
+    calls",20041029,797.37,"S","H4KS03105","KOBACH, KRIS","H","KS",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11547","","","","","G2004","","","24E",8269.74'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '729.41'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H2IA04067
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: THOMPSON
+  - name: S/O STATE
+    number: '17'
+    value: ' STANLEY J'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: IA
+  - name: Unused field
+    number: '20'
+    value: '04'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11548
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '8759.53'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,729.41,"S","H2IA04067","THOMPSON, STANLEY J","H","IA",04,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11548","","","","","G2004","","","24E",8759.53'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '517.99'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H2GA12097
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: BURNS
+  - name: S/O STATE
+    number: '17'
+    value: ' O MAXIE'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: GA
+  - name: Unused field
+    number: '20'
+    value: '12'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11549
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '6474.91'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,517.99,"S","H2GA12097","BURNS, O MAXIE","H","GA",12,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11549","","","","","G2004","","","24E",6474.91'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '434.75'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H2CO07063
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: BEAUPREZ
+  - name: S/O STATE
+    number: '17'
+    value: ' ROBERT LOUIS'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: CO
+  - name: Unused field
+    number: '20'
+    value: '07'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11552
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '3505.99'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,434.75,"S","H2CO07063","BEAUPREZ, ROBERT LOUIS","H","CO",07,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11552","","","","","G2004","","","24E",3505.99'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '379.08'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H2CO04045
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: MUSGRAVE
+  - name: S/O STATE
+    number: '17'
+    value: ' MARILYN N'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: CO
+  - name: Unused field
+    number: '20'
+    value: '04'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11553
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2494.08'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,379.08,"S","H2CO04045","MUSGRAVE, MARILYN N","H","CO",04,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11553","","","","","G2004","","","24E",2494.08'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '227.01'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4CO03126
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: WALCHER
+  - name: S/O STATE
+    number: '17'
+    value: ' GREG'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: CO
+  - name: Unused field
+    number: '20'
+    value: '03'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11554
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '3324.76'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,227.01,"S","H4CO03126","WALCHER, GREG","H","CO",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11554","","","","","G2004","","","24E",3324.76'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Dialing Services
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 5149 Cotton Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Roswell
+  - name: ZIP
+    number: '9'
+    value: NM
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '88201    '
+  - name: DATE
+    number: '11'
+    value: GOTV calls
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041029'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '95.53'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: H4CA20124
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ASHBURN
+  - name: S/O STATE
+    number: '17'
+    value: ' ROY'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: CA
+  - name: Unused field
+    number: '20'
+    value: '20'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11555
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '5885.17'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Dialing Services, LLC","5149 Cotton Rd.","","Roswell","NM","88201    ","GOTV
+    calls",20041029,95.53,"S","H4CA20124","ASHBURN, ROY","H","CA",20,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11555","","","","","G2004","","","24E",5885.17'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Payee)
+    number: '4'
+    value: Parker^Don
+  - name: STREET 1
+    number: '5'
+    value: 512 10th Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Washington
+  - name: STATE
+    number: '8'
+    value: DC
+  - name: ZIP
+    number: '9'
+    value: '20004    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: VanLodgingGas
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '2565.00'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11486
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","IND","Parker^Don","512 10th Street","","Washington","DC","20004    ","VanLodgingGas",20041029,2565.00,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11486","","","","","G2004","","","24E",2078919.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '130.97'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2UT02167
+  - name: S/O CAN/NAME
+    number: '15'
+    value: SWALLOW
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JOHN'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: UT
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '02'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11492
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1583.76'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV",20041029,130.97,"S","H2UT02167","SWALLOW,
+    JOHN","H","UT",02,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11492","","","","","G2004","","","24E",1583.76'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '33793.90'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11460
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV",20041029,33793.90,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11460","","","","","G2004","","","24E",2078919.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '297.45'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2AZ01172
+  - name: S/O CAN/NAME
+    number: '15'
+    value: RENZI
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' RICHARD GEORGE'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: AZ
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '01'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11473
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6121.06'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,297.45,"S","H2AZ01172","RENZI, RICHARD GEORGE","H","AZ",01,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11473","","","","","G2004","","","24E",6121.06'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '82.10'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6IL12016
+  - name: S/O CAN/NAME
+    number: '15'
+    value: CRANE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' PHILIP M'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: IL
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '12'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11474
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '7338.72'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,82.10,"S","H6IL12016","CRANE, PHILIP M","H","IL",12,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11474","","","","","G2004","","","24E",7338.72'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '228.16'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4IN08108
+  - name: S/O CAN/NAME
+    number: '15'
+    value: HOSTETTLER
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JOHN NATHAN'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: IN
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: 08
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11475
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '5610.73'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,228.16,"S","H4IN08108","HOSTETTLER, JOHN NATHAN","H","IN",08,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11475","","","","","G2004","","","24E",5610.73'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '193.68'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2IN09084
+  - name: S/O CAN/NAME
+    number: '15'
+    value: SODREL
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' MICHAEL E'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: IN
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: 09
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11476
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '5359.70'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,193.68,"S","H2IN09084","SODREL, MICHAEL E","H","IN",09,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11476","","","","","G2004","","","24E",5359.70'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '212.87'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H8NM01174
+  - name: S/O CAN/NAME
+    number: '15'
+    value: WILSON
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' HEATHER A.'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NM
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '01'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11477
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '8928.60'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,212.87,"S","H8NM01174","WILSON, HEATHER A.","H","NM",01,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11477","","","","","G2004","","","24E",8928.60'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '119.55'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2NM02126
+  - name: S/O CAN/NAME
+    number: '15'
+    value: PEARCE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' STEVE'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NM
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '02'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11478
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6798.01'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,119.55,"S","H2NM02126","PEARCE, STEVE","H","NM",02,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11478","","","","","G2004","","","24E",6798.01'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '107.95'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4NY04059
+  - name: S/O CAN/NAME
+    number: '15'
+    value: GARNER
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JAMES A'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NY
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '04'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11479
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1799.70'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,107.95,"S","H4NY04059","GARNER, JAMES A","H","NY",04,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11479","","","","","G2004","","","24E",1799.70'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: S4  GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '2080.58'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4NC00089
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BURR
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' RICHARD'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NC
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11480
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '84672.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","S4  GOTV
+    calls",20041029,2080.58,"S","S4NC00089","BURR, RICHARD","S","NC",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11480","","","","","G2004","","","24E",84672.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '137.32'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H8NC11038
+  - name: S/O CAN/NAME
+    number: '15'
+    value: TAYLOR
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' CHARLES H'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NC
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '11'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11481
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '4184.95'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,137.32,"S","H8NC11038","TAYLOR, CHARLES H","H","NC",11,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11481","","","","","G2004","","","24E",4184.95'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '879.98'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4OK00174
+  - name: S/O CAN/NAME
+    number: '15'
+    value: COBURN
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' THOMAS A'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: OK
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11482
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '56761.16'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,879.98,"S","S4OK00174","COBURN, THOMAS A","S","OK",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11482","","","","","G2004","","","24E",56761.16'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x21e46c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '236.87'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2PA06114
+  - name: S/O CAN/NAME
+    number: '15'
+    value: GERLACH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JIM'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: PA
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '06'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11483
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '13110.72'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,236.87,"S","H2PA06114","GERLACH, JIM","H","PA",06,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11483","","","","","G2004","","","24E",13110.72'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fb90>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV Calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '110.62'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4PA08074
+  - name: S/O CAN/NAME
+    number: '15'
+    value: FITZPATRICK
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' MICHAEL G'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: PA
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: 08
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11484
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6588.30'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    Calls",20041029,110.62,"S","H4PA08074","FITZPATRICK, MICHAEL G","H","PA",08,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11484","","","","","G2004","","","24E",6588.30'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6ffc8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '535.23'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S2SD00068
+  - name: S/O CAN/NAME
+    number: '15'
+    value: THUNE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JOHN R'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: SD
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11485
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '47922.07'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV",20041029,535.23,"S","S2SD00068","THUNE,
+    JOHN R","S","SD",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11485","","","","","G2004","","","24E",47922.07'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f830>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '535.23'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2SD01025
+  - name: S/O CAN/NAME
+    number: '15'
+    value: DIEDRICH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' LARRY WILLIAM'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: SD
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '01'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11487
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '26293.54'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,535.23,"S","H2SD01025","DIEDRICH, LARRY WILLIAM","H","SD",01,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11487","","","","","G2004","","","24E",26293.54'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f878>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '122.75'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4TX04039
+  - name: S/O CAN/NAME
+    number: '15'
+    value: GOHMERT
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' LOUIS B. MR. JR.'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: TX
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '04'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11488
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '4507.04'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,122.75,"S","H4TX04039","GOHMERT, LOUIS B. MR. JR.","H","TX",04,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11488","","","","","G2004","","","24E",4507.04'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fdd0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '116.64'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4TX02108
+  - name: S/O CAN/NAME
+    number: '15'
+    value: POE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' TED'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: TX
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '02'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11489
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1040.48'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,116.64,"S","H4TX02108","POE, TED","H","TX",02,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11489","","","","","G2004","","","24E",1040.48'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f758>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '99.39'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4TX17064
+  - name: S/O CAN/NAME
+    number: '15'
+    value: WOHLGEMUTH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' ARLENE MRS'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: TX
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '17'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11490
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '7680.75'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV",20041029,99.39,"S","H4TX17064","WOHLGEMUTH,
+    ARLENE MRS","H","TX",17,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11490","","","","","G2004","","","24E",7680.75'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fa28>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: The Contact Group
+  - name: STREET 1
+    number: '5'
+    value: 12372 Brown Fox Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Reston
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '20191    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '66.14'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2TX03126
+  - name: S/O CAN/NAME
+    number: '15'
+    value: SESSIONS
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' PETE MR.'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: TX
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11491
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '4767.88'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","The Contact Group","12372 Brown Fox Way","","Reston","VA","20191    ","GOTV
+    calls",20041029,66.14,"S","H2TX03126","SESSIONS, PETE MR.","H","TX",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11491","","","","","G2004","","","24E",4767.88'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fb00>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '22685.53'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11493
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2078919.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    calls",20041029,22685.53,"S","P00003335","BUSH, GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11493","","","","","G2004","","","24E",2078919.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fea8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '227.25'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: O
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4AK00107
+  - name: S/O CAN/NAME
+    number: '15'
+    value: KNOWLES
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' TONY'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: AK
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11494
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24A
+  - value: '8362.73'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    calls",20041029,227.25,"O","S4AK00107","KNOWLES, TONY","S","AK",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11494","","","","","G2004","","","24A",8362.73'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f290>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: H4  GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '597.92'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4KS03105
+  - name: S/O CAN/NAME
+    number: '15'
+    value: KOBACH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' KRIS'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: KS
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11495
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '8269.74'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","H4  GOTV
+    calls",20041029,597.92,"S","H4KS03105","KOBACH, KRIS","H","KS",03,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11495","","","","","G2004","","","24E",8269.74'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6fa70>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '2394.50'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S8KY00118
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUNNING
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JIM'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: KY
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11496
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '29355.97'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    calls",20041029,2394.50,"S","S8KY00118","BUNNING, JIM","S","KY",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11496","","","","","G2004","","","24E",29355.97'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f098>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Xpedite Systems
+  - name: STREET 1
+    number: '5'
+    value: 1268 Paypshere Circle
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60674    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: GOTV calls
+  - name: DATE
+    number: '11'
+    value: '20041029'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '4894.80'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S6MO00289
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BOND
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' CHRISTOPHER S'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: MO
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11497
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '29483.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Xpedite Systems","1268 Paypshere Circle","","Chicago","IL","60674    ","GOTV
+    calls",20041029,4894.80,"S","S6MO00289","BOND, CHRISTOPHER S","S","MO",00,"","","","","","","","","","","","","Amarie
+    C. Natividad",20050707,,,"","","E11497","","","","","G2004","","","24E",29483.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0xbd6f638>
+  result: []
+sourceurl: !!python/unicode 20050707
+type: single
