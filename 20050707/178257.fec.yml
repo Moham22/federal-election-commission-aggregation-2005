@@ -1,0 +1,3116 @@
+countraw: 24
+countrows: 22
+filename: 178257.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: COMMITTEE NAME
+    number: '3'
+    value: National Right to Life Political Action Committee
+  - name: STREET 1
+    number: '4'
+    value: 512 10th Street
+  - name: STREET 2
+    number: '5'
+    value: ' N.W.'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Washington
+  - name: ZIP
+    number: '8'
+    value: DC
+  - name: NAME/TREASURER (as signed)
+    number: '9'
+    value: '20004   '
+  - name: Signed
+    number: 10-
+    value: Amarie C. Natividad
+  - name: REPORT TYPE
+    number: '11'
+    value: '20050707'
+  - value: '24'
+  expected_count: 11
+  input: '"F24","C00111278","National Right to Life Political Action Committee","512
+    10th Street, N.W.","","Washington","DC","20004   ","Amarie C. Natividad",20050707,"24"'
+  input_count: 12
+  record: <fec.version.v5_2.F24.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '209.51'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2AZ01172
+  - name: S/O CAN/NAME
+    number: '15'
+    value: RENZI
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' RICHARD GEORGE'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: AZ
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '01'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11672
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6121.06'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,209.51,"S","H2AZ01172","RENZI,
+    RICHARD GEORGE","H","AZ",01,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11672","X","","","","G2004","","","24E",6121.06'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '431.86'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4AR00046
+  - name: S/O CAN/NAME
+    number: '15'
+    value: HOLT
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JIM'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: AR
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11673
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '7130.79'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,431.86,"S","S4AR00046","HOLT,
+    JIM","S","AR",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11673","X","","","","G2004","","","24E",7130.79'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '116.48'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4AR02117
+  - name: S/O CAN/NAME
+    number: '15'
+    value: PARKS
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' MARVIN'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: AR
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '02'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11674
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1343.52'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,116.48,"S","H4AR02117","PARKS,
+    MARVIN","H","AR",02,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11674","X","","","","G2004","","","24E",1343.52'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '70.08'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2CO07063
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BEAUPREZ
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' ROBERT LOUIS'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: CO
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '07'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11677
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '3505.99'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,70.08,"S","H2CO07063","BEAUPREZ,
+    ROBERT LOUIS","H","CO",07,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11677","X","","","","G2004","","","24E",3505.99'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '419.76'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4FL00298
+  - name: S/O CAN/NAME
+    number: '15'
+    value: MARTINEZ
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' MEL'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: FL
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11678
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '194801.01'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,419.76,"S","S4FL00298","MARTINEZ,
+    MEL","S","FL",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11678","X","","","","G2004","","","24E",194801.01'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '174.72'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2GA12097
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BURNS
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' O MAXIE'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: GA
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '12'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11679
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6474.91'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,174.72,"S","H2GA12097","BURNS,
+    O MAXIE","H","GA",12,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11679","X","","","","G2004","","","24E",6474.91'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '22579.62'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11670
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2079535.28'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,22579.62,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11670","X","","","","G2004","","","24E",2079535.28'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6IL12016
+  - name: S/O CAN/NAME
+    number: '15'
+    value: CRANE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' PHILIP M'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: IL
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '12'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11681
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '7338.72'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,105.13,"S","H6IL12016","CRANE,
+    PHILIP M","H","IL",12,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11681","X","","","","G2004","","","24E",7338.72'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2IA04067
+  - name: S/O CAN/NAME
+    number: '15'
+    value: THOMPSON
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' STANLEY J'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: IA
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '04'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11682
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '8759.53'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,105.13,"S","H2IA04067","THOMPSON,
+    STANLEY J","H","IA",04,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11682","X","","","","G2004","","","24E",8759.53'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: H4  Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4KS03105
+  - name: S/O CAN/NAME
+    number: '15'
+    value: KOBACH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' KRIS'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: KS
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11683
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '8269.74'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","H4  Shipping",20041030,105.13,"S","H4KS03105","KOBACH,
+    KRIS","H","KS",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11683","X","","","","G2004","","","24E",8269.74'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2NM02126
+  - name: S/O CAN/NAME
+    number: '15'
+    value: PEARCE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' STEVE'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NM
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '02'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11684
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '6798.01'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,105.13,"S","H2NM02126","PEARCE,
+    STEVE","H","NM",02,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11684","X","","","","G2004","","","24E",6798.01'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '210.25'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4NM03062
+  - name: S/O CAN/NAME
+    number: '15'
+    value: TUCKER
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GREGORY MCDOWELL'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NM
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11685
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1175.20'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,210.25,"S","H4NM03062","TUCKER,
+    GREGORY MCDOWELL","H","NM",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11685","X","","","","G2004","","","24E",1175.20'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H4NY04059
+  - name: S/O CAN/NAME
+    number: '15'
+    value: GARNER
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JAMES A'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NY
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '04'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11686
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '1799.70'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,105.13,"S","H4NY04059","GARNER,
+    JAMES A","H","NY",04,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11686","X","","","","G2004","","","24E",1799.70'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: S4  Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '419.76'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4NC00089
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BURR
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' RICHARD'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NC
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11687
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '84672.14'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","S4  Shipping",20041030,419.76,"S","S4NC00089","BURR,
+    RICHARD","S","NC",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11687","X","","","","G2004","","","24E",84672.14'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '105.13'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H8NC11038
+  - name: S/O CAN/NAME
+    number: '15'
+    value: TAYLOR
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' CHARLES H'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: NC
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '11'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11688
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '4184.95'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,105.13,"S","H8NC11038","TAYLOR,
+    CHARLES H","H","NC",11,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11688","X","","","","G2004","","","24E",4184.95'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '420.50'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4OK00174
+  - name: S/O CAN/NAME
+    number: '15'
+    value: COBURN
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' THOMAS A'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: OK
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11689
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '56761.16'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,420.50,"S","S4OK00174","COBURN,
+    THOMAS A","S","OK",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11689","X","","","","G2004","","","24E",56761.16'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '326.73'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S2SD00068
+  - name: S/O CAN/NAME
+    number: '15'
+    value: THUNE
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' JOHN R'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: SD
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11690
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '47922.07'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,326.73,"S","S2SD00068","THUNE,
+    JOHN R","S","SD",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11690","X","","","","G2004","","","24E",47922.07'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '326.73'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H2SD01025
+  - name: S/O CAN/NAME
+    number: '15'
+    value: DIEDRICH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' LARRY WILLIAM'
+  - name: S/O STATE
+    number: '17'
+    value: H
+  - name: S/O CAN/DIST
+    number: '18'
+    value: SD
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '01'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11691
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '26293.54'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,326.73,"S","H2SD01025","DIEDRICH,
+    LARRY WILLIAM","H","SD",01,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11691","X","","","","G2004","","","24E",26293.54'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UPS
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 4980
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hagerstown
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21747    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Shipping
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '109.46'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S4WA00458
+  - name: S/O CAN/NAME
+    number: '15'
+    value: NETHERCUTT
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE R'
+  - name: S/O STATE
+    number: '17'
+    value: S
+  - name: S/O CAN/DIST
+    number: '18'
+    value: WA
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11692
+  - name: MEMO TEXT
+    number: '39'
+    value: X
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '7731.33'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","UPS","P.O. Box 4980","","Hagerstown","MD","21747    ","Shipping",20041030,109.46,"S","S4WA00458","NETHERCUTT,
+    GEORGE R","S","WA",00,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11692","X","","","","G2004","","","24E",7731.33'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Payee)
+    number: '4'
+    value: Ann Spaulding^
+  - name: STREET 1
+    number: '5'
+    value: 102 Huntington Hills Lane
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Fredericksburg
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '22408    '
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: transp.
+  - name: DATE
+    number: '11'
+    value: '20041030'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '33.89'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: P00003335
+  - name: S/O CAN/NAME
+    number: '15'
+    value: BUSH
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: ' GEORGE W'
+  - name: S/O STATE
+    number: '17'
+    value: P
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '03'
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: Amarie C. Natividad
+  - name: Notarized
+    number: 33-
+    value: '20050707'
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: E11561
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: G2004
+  - name: CATEGORY CODE
+    number: '44'
+    value: ''
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: 24E
+  - value: '2079535.28'
+  expected_count: 46
+  input: '"SE24","C00111278","IND","Ann Spaulding^","102 Huntington Hills Lane","","Fredericksburg","VA","22408    ","transp.",20041030,33.89,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11561","","","","","G2004","","","24E",2079535.28'
+  input_count: 47
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00111278
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Joe Landrum
+  - name: STREET 1
+    number: '5'
+    value: National Right to Life
+  - name: STREET 2
+    number: '6'
+    value: 512 10th Street
+  - name: CITY
+    number: '7'
+    value: ' N.W. '
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: '20004    '
+  - name: DATE
+    number: '11'
+    value: FoodLodging
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '20041030'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '582.25'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: S
+  - name: S/O CAN/NAME
+    number: '15'
+    value: P00003335
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: BUSH
+  - name: S/O STATE
+    number: '17'
+    value: ' GEORGE W'
+  - name: S/O CAN/DIST
+    number: '18'
+    value: P
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: '00'
+  - name: Unused field
+    number: '20'
+    value: '03'
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: Amarie C. Natividad
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050707'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: E11653
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: G2004
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: ''
+  - value: 24E
+  - value: '2079535.28'
+  expected_count: 46
+  input: '"SE24","C00111278","ORG","Joe Landrum","National Right to Life","512 10th
+    Street, N.W. ","Washington","DC","20004    ","FoodLodging",20041030,582.25,"S","P00003335","BUSH,
+    GEORGE W","P","00",03,"","","","","","","","","","","","","Amarie C. Natividad",20050707,,,"","","E11653","","","","","G2004","","","24E",2079535.28'
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x1dd0b48>
+  result: []
+sourceurl: !!python/unicode 20050707
+type: single
