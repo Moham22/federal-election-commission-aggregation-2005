@@ -1,0 +1,141 @@
+countraw: 4
+countrows: 2
+filename: 182371.fec
+header: {}
+rows:
+- input: F2N,"H4NY27076","","PO Box 28","","Buffalo","NY","14220","DEM","H","NY","27","2006","C00401034","Brian
+    Higgins for Congress","PO BOX 28","","Buffalo","NY","14220","","","","","","","","Brian
+    Higgins",20050727,"2000","2000","Brian","Higgins","","",""
+  record: <fec.version.v5_2.F2.Records instance at 0x1dccdd0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H4NY27076
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: PO Box 28
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Buffalo
+  - name: STATE
+    number: '7'
+    value: NY
+  - name: ZIP
+    number: '8'
+    value: '14220'
+  - name: PTY/CODE
+    number: '9'
+    value: DEM
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: NY
+  - name: CAN/DIST
+    number: '12'
+    value: '27'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: C00401034
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: Brian Higgins for Congress
+  - name: STREET 1
+    number: '16'
+    value: PO BOX 28
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: Buffalo
+  - name: STATE
+    number: '19'
+    value: NY
+  - name: ZIP
+    number: '20'
+    value: '14220'
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: ''
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: Brian Higgins
+  - name: Signed
+    number: 29-
+    value: '20050727'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '2000'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '2000'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: Brian
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: Higgins
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+- attempt:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FORM TYPE
+    number: '2'
+    value: F2N
+  - name: BACK REF TRAN ID
+    number: '3'
+    value: ''
+  - name: TEXT4000
+    number: '4'
+    value: Form F2 filed 7/27/05  in response to FEC letter dated 7/8/05
+  - name: AMENDED CD
+    number: '5'
+    value: NO VALUE!
+  expected_count: 5
+  input: TEXT,"F2N","","Form F2 filed 7/27/05  in response to FEC letter dated 7/8/05"
+  input_count: 4
+  record: <fec.version.v5_2.TEXT.Records instance at 0x1dcccf8>
+  result: []
+sourceurl: !!python/unicode 20050727
+type: single
