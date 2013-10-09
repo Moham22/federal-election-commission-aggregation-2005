@@ -1,0 +1,124 @@
+countraw: 3
+countrows: 1
+filename: 194137.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H6GA13013
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 1155 - 15th Street
+  - name: STREET 2
+    number: '5'
+    value: ' NW'
+  - name: CITY
+    number: '6'
+    value: Suite 614
+  - name: STATE
+    number: '7'
+    value: WASHINGTON
+  - name: ZIP
+    number: '8'
+    value: DC
+  - name: PTY/CODE
+    number: '9'
+    value: '20005'
+  - name: CAN/OFFICE
+    number: '10'
+    value: REP
+  - name: CAN/STATE
+    number: '11'
+    value: H
+  - name: CAN/DIST
+    number: '12'
+    value: GA
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '13'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: '2006'
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: C00415190
+  - name: STREET 1
+    number: '16'
+    value: HONEYCUTT FOR CONGRESS
+  - name: STREET 2
+    number: '17'
+    value: 5445 WINSTEAD CT
+  - name: CITY
+    number: '18'
+    value: ''
+  - name: STATE
+    number: '19'
+    value: COLLEGE PARK
+  - name: ZIP
+    number: '20'
+    value: GA
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: '30349'
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: ''
+  - name: Signed
+    number: 29-
+    value: HONEYCUTT^DEBORAH TRAVIS^^
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '20051219'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0.00'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: '0.00'
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: HONEYCUTT
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: DEBORAH
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: TRAVIS
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+  - value: ''
+  expected_count: 36
+  input: F2N,H6GA13013,,"1155 - 15th Street, NW",Suite 614,WASHINGTON,DC,20005,REP,H,GA,13,2006,C00415190,HONEYCUTT
+    FOR CONGRESS,5445 WINSTEAD CT,,COLLEGE PARK,GA,30349,,,,,,,,HONEYCUTT^DEBORAH
+    TRAVIS^^,20051219,0.00,0.00,HONEYCUTT,DEBORAH,TRAVIS,,
+  input_count: 37
+  record: <fec.version.v5_2.F2.Records instance at 0x21e4f80>
+  result: []
+sourceurl: !!python/unicode 20051219
+type: single
