@@ -1,0 +1,120 @@
+countraw: 3
+countrows: 1
+filename: 177663.fec
+header: {}
+rows:
+- input: '"F2N","H2MA05054","","126 Belmont Avenue","","Lowell","MA","01852","DEM","H","MA","5","2006","C00270041","The
+    Marty Meehan For Congress Committee","75 Princeton Street","","North Chelmsford","MA","01863","","","","","","","","Martin
+    T. Meehan","20050630","0","0","Meehan","Martin","T.","",""'
+  record: <fec.version.v5_2.F2.Records instance at 0x1beca28>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H2MA05054
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 126 Belmont Avenue
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Lowell
+  - name: STATE
+    number: '7'
+    value: MA
+  - name: ZIP
+    number: '8'
+    value: 01852
+  - name: PTY/CODE
+    number: '9'
+    value: DEM
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: MA
+  - name: CAN/DIST
+    number: '12'
+    value: '5'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: C00270041
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: The Marty Meehan For Congress Committee
+  - name: STREET 1
+    number: '16'
+    value: 75 Princeton Street
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: North Chelmsford
+  - name: STATE
+    number: '19'
+    value: MA
+  - name: ZIP
+    number: '20'
+    value: 01863
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: ''
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: Martin T. Meehan
+  - name: Signed
+    number: 29-
+    value: '20050630'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '0'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: Meehan
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: Martin
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: T.
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+sourceurl: !!python/unicode 20050630
+type: single
