@@ -1,0 +1,4796 @@
+countraw: 14060
+countrows: 14054
+filename: 189576.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Professional Messaging Service
+  - name: STREET 1
+    number: '5'
+    value: ' Inc.'
+  - name: STREET 2
+    number: '6'
+    value: 1611 Peach St. Suite 185
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Erie
+  - name: ZIP
+    number: '9'
+    value: PA
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '16501'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Telecommunications Services
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '592.8'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '898.87'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '1491.67'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D46227
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Professional Messaging Service, Inc.","1611 Peach
+    St. Suite 185","","Erie","PA","16501","Telecommunications Services","592.8","898.87","0","1491.67",,,,,,,,,,,,,"","D46227"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c950>
+  result: []
+- input: SD12,"C00383653","ORG","Public Service of New Hampshire","P.O. Box 360","","Manchester","NH","03105","Utilities","473.24","558.75","0","1031.99",,,,,,,,,,,,,"","D46229"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c9e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Public Service of New Hampshire
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 360
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Manchester
+  - name: STATE
+    number: '8'
+    value: NH
+  - name: ZIP
+    number: '9'
+    value: '03105'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Utilities
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '473.24'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '558.75'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '1031.99'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46229
+- input: SD12,"C00383653","ORG","Purchase Power","PO Box 856042","","Louisville","KY","402856042","Postage","0","6078","0","6078",,,,,,,,,,,,,"","D51535"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Purchase Power
+  - name: STREET 1
+    number: '5'
+    value: PO Box 856042
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Louisville
+  - name: STATE
+    number: '8'
+    value: KY
+  - name: ZIP
+    number: '9'
+    value: '402856042'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Postage
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '6078'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '6078'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51535
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Quality Vending of SC
+  - name: STREET 1
+    number: '5'
+    value: ' Inc'
+  - name: STREET 2
+    number: '6'
+    value: 113 N. Shorecrest Drive
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Columbia
+  - name: ZIP
+    number: '9'
+    value: SC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '29209'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Food & Beverage
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '167.13'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '167.13'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D51538
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Quality Vending of SC, Inc","113 N. Shorecrest Drive","","Columbia","SC","29209","Food
+    & Beverage","0","167.13","0","167.13",,,,,,,,,,,,,"","D51538"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c9e0>
+  result: []
+- input: SD12,"C00383653","ORG","Quick Messenger Service","PO Box 27378","","Washington","DC","20038","Delivery
+    Services","211.58","0","0","211.58",,,,,,,,,,,,,"","D55459"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cab8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Quick Messenger Service
+  - name: STREET 1
+    number: '5'
+    value: PO Box 27378
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Washington
+  - name: STATE
+    number: '8'
+    value: DC
+  - name: ZIP
+    number: '9'
+    value: '20038'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Delivery Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '211.58'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '211.58'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D55459
+- input: SD12,"C00383653","ORG","Qwest","700 W. Mineral Ave","","Littleton","CO","80120","Telephone","24083.6","0","15765.82","8317.78",,,,,,,,,,,,,"","D16700"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c9e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Qwest
+  - name: STREET 1
+    number: '5'
+    value: 700 W. Mineral Ave
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Littleton
+  - name: STATE
+    number: '8'
+    value: CO
+  - name: ZIP
+    number: '9'
+    value: '80120'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telephone
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '24083.6'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '15765.82'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '8317.78'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D16700
+- input: SD12,"C00383653","ORG","Rent-A-Desk","209 San Mateo NE","","Albuquerque","NM","87108","Equipment
+    Rental","244.43","0","0","244.43",,,,,,,,,,,,,"","D37122"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cab8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Rent-A-Desk
+  - name: STREET 1
+    number: '5'
+    value: 209 San Mateo NE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Albuquerque
+  - name: STATE
+    number: '8'
+    value: NM
+  - name: ZIP
+    number: '9'
+    value: '87108'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Equipment Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '244.43'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '244.43'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D37122
+- input: SD12,"C00383653","ORG","Rentex Computer & AV Rentals","337 Summer St.","","Boston","MA","02210","Equipment
+    Rental","905.19","0","905.19","0",,,,,,,,,,,,,"","D46242"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cc20>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Rentex Computer & AV Rentals
+  - name: STREET 1
+    number: '5'
+    value: 337 Summer St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Boston
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: '02210'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Equipment Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '905.19'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '905.19'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46242
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Riverfront Media
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 1010 Wisconsin Avenue
+  - name: CITY
+    number: '7'
+    value: ' NW'
+  - name: STATE
+    number: '8'
+    value: Suite 800
+  - name: ZIP
+    number: '9'
+    value: Washington
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: DC
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '20005'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: Media
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '54527.5'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '54527.5'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: '0'
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: ''
+  - value: D37103
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Riverfront Media, LLC","1010 Wisconsin Avenue, NW","Suite
+    800","Washington","DC","20005","Media","54527.5","0","54527.5","0",,,,,,,,,,,,,"","D37103"
+  input_count: 30
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c9e0>
+  result: []
+- input: SD12,"C00383653","ORG","Save That Stuff","24 Bunker Hill Industrial Park","","Charlestown","MA","02129","Waste
+    Removal","0","45","0","45",,,,,,,,,,,,,"","D51540"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Save That Stuff
+  - name: STREET 1
+    number: '5'
+    value: 24 Bunker Hill Industrial Park
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Charlestown
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: 02129
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Waste Removal
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '45'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '45'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51540
+- input: SD12,"C00383653","ORG","SBC","N17W24300 Riverwood Drive","","Waukesha","WI","53188","Telecommunications
+    Services","2183.74","3124.76","5176.8","131.7",,,,,,,,,,,,,"","D46245"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7c9e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: SBC
+  - name: STREET 1
+    number: '5'
+    value: N17W24300 Riverwood Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Waukesha
+  - name: STATE
+    number: '8'
+    value: WI
+  - name: ZIP
+    number: '9'
+    value: '53188'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '2183.74'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '3124.76'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '5176.8'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '131.7'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46245
+- input: SD12,"C00383653","ORG","SBC","PO Box 1250","","Milan","IL","61264","Telecommunications
+    Services","0","88.77","0","88.77",,,,,,,,,,,,,"","D51541"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: SBC
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1250
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Milan
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '61264'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '88.77'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '88.77'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51541
+- input: SD12,"C00383653","ORG","Shared Technologies Alliance","PO Box 631471","","Baltimore","MD","212631471","Telecommunications
+    Services","0","375","0","375",,,,,,,,,,,,,"","D51545"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cea8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Shared Technologies Alliance
+  - name: STREET 1
+    number: '5'
+    value: PO Box 631471
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Baltimore
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '212631471'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '375'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '375'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51545
+- input: SD12,"C00383653","ORG","Sheraton Seattle Hotel and Towers","1400 Sixth Avenue","","Seattle","WA","98101","Travel
+    Services","0","8200","0","8200",,,,,,,,,,,,,"","D51546"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Sheraton Seattle Hotel and Towers
+  - name: STREET 1
+    number: '5'
+    value: 1400 Sixth Avenue
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Seattle
+  - name: STATE
+    number: '8'
+    value: WA
+  - name: ZIP
+    number: '9'
+    value: '98101'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Travel Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '8200'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '8200'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51546
+- input: SD12,"C00383653","ORG","Simard Printing","300 Salem St.","","Woburn","MA","01801","Printing
+    Services","0","4110.5","0","4110.5",,,,,,,,,,,,,"","D51547"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7ccb0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Simard Printing
+  - name: STREET 1
+    number: '5'
+    value: 300 Salem St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Woburn
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: 01801
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Printing Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '4110.5'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '4110.5'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51547
+- input: SD12,"C00383653","ORG","Smithcurl","1242 Chestnut Street","","Newton Upper
+    Falls","MA","02464","Cable Installation","2821.82","0","2821.82","0",,,,,,,,,,,,,"","D37113"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Smithcurl
+  - name: STREET 1
+    number: '5'
+    value: 1242 Chestnut Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Newton Upper Falls
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: '02464'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Cable Installation
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '2821.82'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '2821.82'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D37113
+- input: 'SD12,"C00383653","ORG","Soapbox","266 W. 23rd St. #3","","New York","NY","10011","Media
+    Services","2001","13000","2001","13000",,,,,,,,,,,,,"","D46253"'
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7ccb0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Soapbox
+  - name: STREET 1
+    number: '5'
+    value: '266 W. 23rd St. #3'
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: New York
+  - name: STATE
+    number: '8'
+    value: NY
+  - name: ZIP
+    number: '9'
+    value: '10011'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Media Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '2001'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '13000'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '2001'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '13000'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46253
+- input: SD12,"C00383653","ORG","Sound Concepts Inc.","1001 3rd Avenue SW","","Cedar
+    Rapids","IA","524041813","Media Services","2558.58","0","2558.58","0",,,,,,,,,,,,,"","D46255"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Sound Concepts Inc.
+  - name: STREET 1
+    number: '5'
+    value: 1001 3rd Avenue SW
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cedar Rapids
+  - name: STATE
+    number: '8'
+    value: IA
+  - name: ZIP
+    number: '9'
+    value: '524041813'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Media Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '2558.58'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '2558.58'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46255
+- input: SD12,"C00383653","ORG","Southwest Audio Visual","1734 N. 22nd Ave.","","Phoenix","AZ","85009","Equipment
+    Rental","0","3568.45","0","3568.45",,,,,,,,,,,,,"","D51550"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7ccb0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Southwest Audio Visual
+  - name: STREET 1
+    number: '5'
+    value: 1734 N. 22nd Ave.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '85009'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Equipment Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '3568.45'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '3568.45'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51550
+- input: SD12,"C00383653","ORG","Specifications Service Co.","23999 Telegraph Rd.
+    PO Box 2003","","Southfield","MI","48037","Printing Services","0","2537.97","0","2537.97",,,,,,,,,,,,,"","D51552"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84170>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Specifications Service Co.
+  - name: STREET 1
+    number: '5'
+    value: 23999 Telegraph Rd. PO Box 2003
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Southfield
+  - name: STATE
+    number: '8'
+    value: MI
+  - name: ZIP
+    number: '9'
+    value: '48037'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Printing Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '2537.97'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '2537.97'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51552
+- input: SD12,"C00383653","ORG","Sprint","PO Box 530503","","Atlanta","GA","303530503","Telecommunications
+    Services","0","59.57","0","59.57",,,,,,,,,,,,,"","D51559"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7ccb0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Sprint
+  - name: STREET 1
+    number: '5'
+    value: PO Box 530503
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Atlanta
+  - name: STATE
+    number: '8'
+    value: GA
+  - name: ZIP
+    number: '9'
+    value: '303530503'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '59.57'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '59.57'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51559
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Staples
+  - name: STREET 1
+    number: '5'
+    value: 1250 H St NW
+  - name: STREET 2
+    number: '6'
+    value: ' Suite 100'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '20001'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Office Supplies
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '15000'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '15000'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '0'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D37128
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Staples","1250 H St NW, Suite 100","","Washington","DC","20001","Office
+    Supplies","15000","0","15000","0",,,,,,,,,,,,,"","D37128"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result: []
+- input: SD12,"C00383653","ORG","State Public Policy Group","200 10th St.","","Des
+    Moines","IA","50309","Telemarketing","3500","0","3500","0",,,,,,,,,,,,,"","D46326"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84200>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: State Public Policy Group
+  - name: STREET 1
+    number: '5'
+    value: 200 10th St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Des Moines
+  - name: STATE
+    number: '8'
+    value: IA
+  - name: ZIP
+    number: '9'
+    value: '50309'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telemarketing
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '3500'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '3500'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46326
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Strategic Business Systems
+  - name: STREET 1
+    number: '5'
+    value: ' Inc.'
+  - name: STREET 2
+    number: '6'
+    value: 4962 Augusta Highway
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Leesville
+  - name: ZIP
+    number: '9'
+    value: SC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '29070'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Telecommunications Services
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '189.5'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '189.5'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D51560
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Strategic Business Systems, Inc.","4962 Augusta Highway","","Leesville","SC","29070","Telecommunications
+    Services","0","189.5","0","189.5",,,,,,,,,,,,,"","D51560"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84290>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Strategic Telemetry
+  - name: STREET 1
+    number: '5'
+    value: ' Inc'
+  - name: STREET 2
+    number: '6'
+    value: '236 Massachusetts Avenue NE #201'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '20002'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Polling
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '16500'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '16500'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '0'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D46260
+  expected_count: 28
+  input: 'SD12,"C00383653","ORG","Strategic Telemetry, Inc","236 Massachusetts Avenue
+    NE #201","","Washington","DC","20002","Polling","16500","0","16500","0",,,,,,,,,,,,,"","D46260"'
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84368>
+  result: []
+- input: SD12,"C00383653","ORG","Telephone Network Technologies","33 South Commercial
+    St.","","Manchester","NH","03101","Telephone","1265","0","1265","0",,,,,,,,,,,,,"","D46263"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84440>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Telephone Network Technologies
+  - name: STREET 1
+    number: '5'
+    value: 33 South Commercial St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Manchester
+  - name: STATE
+    number: '8'
+    value: NH
+  - name: ZIP
+    number: '9'
+    value: '03101'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telephone
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '1265'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '1265'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46263
+- input: SD12,"C00383653","ORG","The Catering Company","PO Box 4116","","Edmond","OK","73083","Catering
+    Services","0","2705.1","0","2705.1",,,,,,,,,,,,,"","D51562"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: The Catering Company
+  - name: STREET 1
+    number: '5'
+    value: PO Box 4116
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Edmond
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '73083'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Catering Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '2705.1'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '2705.1'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51562
+- input: SD12,"C00383653","ORG","The Hanover Insurance Co.","P.O. Box 8016","","Boston","MA","022668016","Insurance","1222","0","1222","0",,,,,,,,,,,,,"","D37087"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84440>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: The Hanover Insurance Co.
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 8016
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Boston
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: 022668016
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Insurance
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '1222'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '1222'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D37087
+- input: SD12,"C00383653","ORG","The Hartford","PO Box 2907","","Hartford","CT","061042907","Insurance","206","0","206","0",,,,,,,,,,,,,"","D46266"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: The Hartford
+  - name: STREET 1
+    number: '5'
+    value: PO Box 2907
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Hartford
+  - name: STATE
+    number: '8'
+    value: CT
+  - name: ZIP
+    number: '9'
+    value: 061042907
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Insurance
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '206'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '206'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46266
+- input: SD12,"C00383653","ORG","The Mellman Group","1000 Thomas Jefferson St. NW
+    Suite","","Washington","DC","20007","Research Services","0","123190.87","26500","96690.87",,,,,,,,,,,,,"","D16684"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84560>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: The Mellman Group
+  - name: STREET 1
+    number: '5'
+    value: 1000 Thomas Jefferson St. NW Suite
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Washington
+  - name: STATE
+    number: '8'
+    value: DC
+  - name: ZIP
+    number: '9'
+    value: '20007'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Research Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '123190.87'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '26500'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '96690.87'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D16684
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: The Spoken Hub
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 104 Fifth Ave 20th Floor
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: New York
+  - name: ZIP
+    number: '9'
+    value: NY
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '10011'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Voter Contact Services
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '41045.12'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '66307.19'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '107352.31'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D46267
+  expected_count: 28
+  input: SD12,"C00383653","ORG","The Spoken Hub, LLC","104 Fifth Ave 20th Floor","","New
+    York","NY","10011","Voter Contact Services","41045.12","66307.19","0","107352.31",,,,,,,,,,,,,"","D46267"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result: []
+- input: SD12,"C00383653","ORG","Thrifty Car Rental","Lockbox 122","","Bok Mail Service","OK","74182","Travel
+    Services","2078.41","3357.65","0","5436.06",,,,,,,,,,,,,"","D46268"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84638>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Thrifty Car Rental
+  - name: STREET 1
+    number: '5'
+    value: Lockbox 122
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bok Mail Service
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74182'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Travel Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '2078.41'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '3357.65'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '5436.06'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46268
+- input: SD12,"C00383653","ORG","T-Mobile","PO Box 742596","","Cincinnati","OH","452742596","Computer
+    Expense","654.35","0","654.35","0",,,,,,,,,,,,,"","D46269"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: T-Mobile
+  - name: STREET 1
+    number: '5'
+    value: PO Box 742596
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cincinnati
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '452742596'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Computer Expense
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '654.35'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '654.35'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46269
+- input: SD12,"C00383653","ORG","Tracer","PO Box 1964","","Bismarck","ND","585021964","Internet
+    Services","0","260","0","260",,,,,,,,,,,,,"","D51569"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84638>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Tracer
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1964
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bismarck
+  - name: STATE
+    number: '8'
+    value: ND
+  - name: ZIP
+    number: '9'
+    value: '585021964'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Internet Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '260'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '260'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51569
+- input: SD12,"C00383653","ORG","Tri-City Electric Co.","10520 Hickman Rd.","","Des
+    Moines","IA","50325","Telephone","5147.76","0","0","5147.76",,,,,,,,,,,,,"","D46274"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd7cd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Tri-City Electric Co.
+  - name: STREET 1
+    number: '5'
+    value: 10520 Hickman Rd.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Des Moines
+  - name: STATE
+    number: '8'
+    value: IA
+  - name: ZIP
+    number: '9'
+    value: '50325'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telephone
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '5147.76'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '5147.76'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46274
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Tri-Rentals
+  - name: STREET 1
+    number: '5'
+    value: ' Inc.'
+  - name: STREET 2
+    number: '6'
+    value: '3103 E. Broadway Rd. #400'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Phoenix
+  - name: ZIP
+    number: '9'
+    value: AZ
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '85040'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Equipment Rental
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '3783.63'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '3783.63'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D90464
+  expected_count: 28
+  input: 'SD12,"C00383653","ORG","Tri-Rentals, Inc.","3103 E. Broadway Rd. #400","","Phoenix","AZ","85040","Equipment
+    Rental","0","3783.63","0","3783.63",,,,,,,,,,,,,"","D90464"'
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84638>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: UltraDNS Corporation
+  - name: STREET 1
+    number: '5'
+    value: 1000 Marina Blvd.
+  - name: STREET 2
+    number: '6'
+    value: ' Suite 600'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Brisbane
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '940051835'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Computer Service
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '300'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '300'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '0'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D46275
+  expected_count: 28
+  input: SD12,"C00383653","ORG","UltraDNS Corporation","1000 Marina Blvd., Suite 600","","Brisbane","CA","940051835","Computer
+    Service","300","0","300","0",,,,,,,,,,,,,"","D46275"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd847e8>
+  result: []
+- input: SD12,"C00383653","ORG","United Business Machines","9218 Gaither Road","","Gaithersberg","MD","20877","Equipment
+    Rental","0","1301.14","0","1301.14",,,,,,,,,,,,,"","D51575"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: United Business Machines
+  - name: STREET 1
+    number: '5'
+    value: 9218 Gaither Road
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Gaithersberg
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '20877'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Equipment Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '1301.14'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '1301.14'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51575
+- input: SD12,"C00383653","ORG","Unitil","PO Box 2013","","Concord","NH","033022013","Utilities","0","133.15","0","133.15",,,,,,,,,,,,,"","D51577"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd847e8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Unitil
+  - name: STREET 1
+    number: '5'
+    value: PO Box 2013
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Concord
+  - name: STATE
+    number: '8'
+    value: NH
+  - name: ZIP
+    number: '9'
+    value: '033022013'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Utilities
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '133.15'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '133.15'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51577
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Uptowne Center
+  - name: STREET 1
+    number: '5'
+    value: ' LLC'
+  - name: STREET 2
+    number: '6'
+    value: 301 W. Blackburn Rd.
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Mt. Vernon
+  - name: ZIP
+    number: '9'
+    value: WA
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '98273'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Rent
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '225'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '225'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '0'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D51592
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Uptowne Center, LLC","301 W. Blackburn Rd.","","Mt.
+    Vernon","WA","98273","Rent","225","0","225","0",,,,,,,,,,,,,"","D51592"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result: []
+- input: SD12,"C00383653","ORG","V2 Consulting Group","961 Ilima Way","","Palo Alto","CA","94306","Internet
+    Services","4357.68","4038.46","8396.14","0",,,,,,,,,,,,,"","D46279"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: V2 Consulting Group
+  - name: STREET 1
+    number: '5'
+    value: 961 Ilima Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Palo Alto
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '94306'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Internet Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '4357.68'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '4038.46'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '8396.14'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46279
+- input: SD12,"C00383653","ORG","Verizon Internet Solutions","PO Box 101096","","Atlanta","GA","303921096","Telecommunications
+    Service","818.11","0","818.11","0",,,,,,,,,,,,,"","D46293"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84a70>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Verizon Internet Solutions
+  - name: STREET 1
+    number: '5'
+    value: PO Box 101096
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Atlanta
+  - name: STATE
+    number: '8'
+    value: GA
+  - name: ZIP
+    number: '9'
+    value: '303921096'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Service
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '818.11'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '818.11'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46293
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Verizon Wireless
+  - name: STREET 1
+    number: '5'
+    value: ' Corp Office'
+  - name: STREET 2
+    number: '6'
+    value: 1 Verizon Place
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Alpharetta
+  - name: ZIP
+    number: '9'
+    value: GA
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '30004'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Telecommunications Services
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '1948.25'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '1948.25'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: D51595
+  expected_count: 28
+  input: SD12,"C00383653","ORG","Verizon Wireless, Corp Office","1 Verizon Place","","Alpharetta","GA","30004","Telecommunications
+    Services","0","1948.25","0","1948.25",,,,,,,,,,,,,"","D51595"
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84a28>
+  result: []
+- input: SD12,"C00383653","ORG","Verizon Wireless","PO Box 17464","","Baltimore","MD","21297","Telecommunications
+    Service","829.65","0","829.65","0",,,,,,,,,,,,,"","D46296"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Verizon Wireless
+  - name: STREET 1
+    number: '5'
+    value: PO Box 17464
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Baltimore
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21297'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Service
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '829.65'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '829.65'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46296
+- input: SD12,"C00383653","ORG","Verizon","3011 Hungary Spring Road","4th Floor","Richmond","VA","23228","Telephone","5654.07","9886.65","0","15540.72",,,,,,,,,,,,,"","D46284"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Verizon
+  - name: STREET 1
+    number: '5'
+    value: 3011 Hungary Spring Road
+  - name: STREET 2
+    number: '6'
+    value: 4th Floor
+  - name: CITY
+    number: '7'
+    value: Richmond
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23228'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telephone
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '5654.07'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '9886.65'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '15540.72'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46284
+- input: SD12,"C00383653","ORG","Vernon Hayes","80 Central St.","","Bangor","ME","04401","Office
+    Rental","682.85","0","682.85","0",,,,,,,,,,,,,"","D46301"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Vernon Hayes
+  - name: STREET 1
+    number: '5'
+    value: 80 Central St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bangor
+  - name: STATE
+    number: '8'
+    value: ME
+  - name: ZIP
+    number: '9'
+    value: '04401'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Office Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '682.85'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '682.85'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46301
+- input: SD12,"C00383653","ORG","Vineyard Vines","16 Division St. West","","Greenwich","CT","06830","Event
+    Gifts","5625","0","5625","0",,,,,,,,,,,,,"","D46304"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Vineyard Vines
+  - name: STREET 1
+    number: '5'
+    value: 16 Division St. West
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Greenwich
+  - name: STATE
+    number: '8'
+    value: CT
+  - name: ZIP
+    number: '9'
+    value: 06830
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Event Gifts
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '5625'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '5625'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46304
+- input: SD12,"C00383653","ORG","Warren Impact","500 Washington St.","","Quincy","MA","02169","Printing
+    Services","0","625","0","625",,,,,,,,,,,,,"","D51591"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Warren Impact
+  - name: STREET 1
+    number: '5'
+    value: 500 Washington St.
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Quincy
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: 02169
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Printing Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '625'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '625'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51591
+- input: SD12,"C00383653","ORG","Washington Gas","PO Box 830036","","Baltimore","MD","212830036","Utilities","0","420.54","0","420.54",,,,,,,,,,,,,"","D51589"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Washington Gas
+  - name: STREET 1
+    number: '5'
+    value: PO Box 830036
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Baltimore
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '212830036'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Utilities
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '420.54'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '420.54'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51589
+- input: SD12,"C00383653","ORG","Whitney W. Burns","PO Box 1174","","Springfield","VA","22151","Compliance
+    Consulting","12925","0","0","12925",,,,,,,,,,,,,"","D37146"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Whitney W. Burns
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1174
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Springfield
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '22151'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Compliance Consulting
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '12925'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '12925'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D37146
+- input: SD12,"C00383653","ORG","Wiggins Airways","1 Garside Way","","Manchester","NH","03103","Facility
+    Rental","3700","0","3700","0",,,,,,,,,,,,,"","D46307"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Wiggins Airways
+  - name: STREET 1
+    number: '5'
+    value: 1 Garside Way
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Manchester
+  - name: STATE
+    number: '8'
+    value: NH
+  - name: ZIP
+    number: '9'
+    value: '03103'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Facility Rental
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '3700'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '3700'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D46307
+- input: SD12,"C00383653","ORG","Wild Bronco Production","790 Oak Branch Drive","","Oak
+    Park","CA","91377","Political Consulting","5000","0","5000","0",,,,,,,,,,,,,"","D16698"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Wild Bronco Production
+  - name: STREET 1
+    number: '5'
+    value: 790 Oak Branch Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Oak Park
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '91377'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Political Consulting
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '5000'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '5000'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D16698
+- input: SD12,"C00383653","ORG","Working Assets","PO Box 2024","","Mechanicsburg","PA","170550764","Telecommunications
+    Services","0","228.77","0","228.77",,,,,,,,,,,,,"","D90468"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84d88>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Working Assets
+  - name: STREET 1
+    number: '5'
+    value: PO Box 2024
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Mechanicsburg
+  - name: STATE
+    number: '8'
+    value: PA
+  - name: ZIP
+    number: '9'
+    value: '170550764'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Telecommunications Services
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '228.77'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '228.77'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D90468
+- input: SD12,"C00383653","ORG","Yuma County Recorder","410 S. Malden Lane Suite B","","Yuma","AZ","853642311","Copy
+    Charges","0","362.2","0","362.2",,,,,,,,,,,,,"","D51585"
+  record: <fec.version.v5_2.SD.Records instance at 0xbd84b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383653
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Yuma County Recorder
+  - name: STREET 1
+    number: '5'
+    value: 410 S. Malden Lane Suite B
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Yuma
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '853642311'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Copy Charges
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '362.2'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '362.2'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: D51585
+sourceurl: !!python/unicode 20051016
+type: chunk
