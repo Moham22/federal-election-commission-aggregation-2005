@@ -1,0 +1,146 @@
+countraw: 4
+countrows: 2
+filename: 177590.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H4CA16049
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 50 W. San Fernando St.
+  - name: STREET 2
+    number: '5'
+    value: ' #350'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: San Jose
+  - name: ZIP
+    number: '8'
+    value: CA
+  - name: PTY/CODE
+    number: '9'
+    value: '95113'
+  - name: CAN/OFFICE
+    number: '10'
+    value: DEM
+  - name: CAN/STATE
+    number: '11'
+    value: H
+  - name: CAN/DIST
+    number: '12'
+    value: CA
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '16'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: '2006'
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: C00289603
+  - name: STREET 1
+    number: '16'
+    value: Lofgren for Congress
+  - name: STREET 2
+    number: '17'
+    value: 50 W. San Fernando St.
+  - name: CITY
+    number: '18'
+    value: ' #350'
+  - name: STATE
+    number: '19'
+    value: ''
+  - name: ZIP
+    number: '20'
+    value: San Jose
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: CA
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: '95113'
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: ''
+  - name: Signed
+    number: 29-
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: Zoe Lofgren
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '20050628'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: Lofgren
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: Zoe
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+  - value: ''
+  - value: ''
+  expected_count: 36
+  input: 'F2N,"H4CA16049","","50 W. San Fernando St., #350","","San Jose","CA","95113","DEM","H","CA","16","2006","C00289603","Lofgren
+    for Congress","50 W. San Fernando St., #350","","San Jose","CA","95113","","","","","","","","Zoe
+    Lofgren",20050628,"","","Lofgren","Zoe","","",""'
+  input_count: 38
+  record: <fec.version.v5_2.F2.Records instance at 0x1dd0830>
+  result: []
+- attempt:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FORM TYPE
+    number: '2'
+    value: F2N
+  - name: BACK REF TRAN ID
+    number: '3'
+    value: ''
+  - name: TEXT4000
+    number: '4'
+    value: Additional information on disbursement purposes.
+  - name: AMENDED CD
+    number: '5'
+    value: NO VALUE!
+  expected_count: 5
+  input: TEXT,"F2N","","Additional information on disbursement purposes."
+  input_count: 4
+  record: <fec.version.v5_2.TEXT.Records instance at 0x1dd0a70>
+  result: []
+sourceurl: !!python/unicode 20050629
+type: single
