@@ -1,0 +1,906 @@
+countraw: 9
+countrows: 7
+filename: 182759.fec
+header: {}
+rows:
+- input: F24,C00075820,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,320 FIRST STREET,.,WASHINGTON,DC,20003,Christopher
+    J. Ward^^^,20050728,24
+  record: <fec.version.v5_2.F24.Records instance at 0x1dc92d8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: COMMITTEE NAME
+    number: '3'
+    value: NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE
+  - name: STREET 1
+    number: '4'
+    value: 320 FIRST STREET
+  - name: STREET 2
+    number: '5'
+    value: .
+  - name: CITY
+    number: '6'
+    value: WASHINGTON
+  - name: STATE
+    number: '7'
+    value: DC
+  - name: ZIP
+    number: '8'
+    value: '20003'
+  - name: NAME/TREASURER (as signed)
+    number: '9'
+    value: Christopher J. Ward^^^
+  - name: Signed
+    number: 10-
+    value: '20050728'
+  - name: REPORT TYPE
+    number: '11'
+    value: '24'
+- input: SE24,C00075820,ORG,Conquest Communications,2812 Emerywood Oky Ste 103,,Richmond,VA,23294,Phone
+    banks,20050727,4838.48,O,H6OH02094,HACKETT^PAUL LEWIS III^^,H,OH,02,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4458,,,,,S2005,Special-General,004,,4838.48
+  record: <fec.version.v5_2.SE.Records instance at 0x1261f170>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Conquest Communications
+  - name: STREET 1
+    number: '5'
+    value: 2812 Emerywood Oky Ste 103
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Richmond
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23294'
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Phone banks
+  - name: DATE
+    number: '11'
+    value: '20050727'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '4838.48'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: O
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6OH02094
+  - name: S/O CAN/NAME
+    number: '15'
+    value: HACKETT^PAUL LEWIS III^^
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H
+  - name: S/O STATE
+    number: '17'
+    value: OH
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '02'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00075820
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: '20050728'
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: SE24.4458
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: S2005
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: Special-General
+  - name: CATEGORY CODE
+    number: '44'
+    value: '004'
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '4838.48'
+- input: SE24,C00075820,ORG,Conquest Communications,2812 Emerywood Oky Ste 103,,Richmond,VA,23294,Phonebanks,20050728,7323.96,O,H6OH02094,HACKETT^PAUL
+    LEWIS III^^,H,OH,02,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4459,,,,,S2005,Special-General,004,,12162.44
+  record: <fec.version.v5_2.SE.Records instance at 0x1dc92d8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Conquest Communications
+  - name: STREET 1
+    number: '5'
+    value: 2812 Emerywood Oky Ste 103
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Richmond
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23294'
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Phonebanks
+  - name: DATE
+    number: '11'
+    value: '20050728'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '7323.96'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: O
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6OH02094
+  - name: S/O CAN/NAME
+    number: '15'
+    value: HACKETT^PAUL LEWIS III^^
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H
+  - name: S/O STATE
+    number: '17'
+    value: OH
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '02'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00075820
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: '20050728'
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: SE24.4459
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: S2005
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: Special-General
+  - name: CATEGORY CODE
+    number: '44'
+    value: '004'
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '12162.44'
+- input: SE24,C00075820,ORG,Conquest Communications,2812 Emerywood Oky Ste 103,,Richmond,VA,23294,Phonebanks,20050728,3660.00,S,H6OH02086,SCHMIDT^JEANNETTE
+    H^^,H,OH,2,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4460,,,,,S2005,Special-General,004,,3660.00
+  record: <fec.version.v5_2.SE.Records instance at 0x1261f170>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Conquest Communications
+  - name: STREET 1
+    number: '5'
+    value: 2812 Emerywood Oky Ste 103
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Richmond
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23294'
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Phonebanks
+  - name: DATE
+    number: '11'
+    value: '20050728'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '3660.00'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6OH02086
+  - name: S/O CAN/NAME
+    number: '15'
+    value: SCHMIDT^JEANNETTE H^^
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H
+  - name: S/O STATE
+    number: '17'
+    value: OH
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '2'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00075820
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: '20050728'
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: SE24.4460
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: S2005
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: Special-General
+  - name: CATEGORY CODE
+    number: '44'
+    value: '004'
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '3660.00'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Strategic Media Services Inc.
+  - name: STREET 1
+    number: '5'
+    value: 1023 31st
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ' 4th Fl.'
+  - name: STATE
+    number: '8'
+    value: ''
+  - name: ZIP
+    number: '9'
+    value: Washignton
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: DC
+  - name: DATE
+    number: '11'
+    value: '20007'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: Media Placement
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '20050728'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: '265630.00'
+  - name: S/O CAN/NAME
+    number: '15'
+    value: O
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H6OH02094
+  - name: S/O STATE
+    number: '17'
+    value: HACKETT^PAUL LEWIS III^^
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: OH
+  - name: Unused field
+    number: '20'
+    value: '02'
+  - name: Unused field
+    number: '21'
+    value: C00075820
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050728'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: SE24.4461
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: S2005
+  - name: TRANS CODE
+    number: '45'
+    value: Special-General
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '004'
+  - value: ''
+  - value: '277792.44'
+  expected_count: 46
+  input: SE24,C00075820,ORG,Strategic Media Services Inc.,"1023 31st, NW, 4th Fl.",,Washignton,DC,20007,Media
+    Placement,20050728,265630.00,O,H6OH02094,HACKETT^PAUL LEWIS III^^,H,OH,02,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4461,,,,,S2005,Special-General,004,,277792.44
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x1261fb90>
+  result: []
+- input: SE24,C00075820,ORG,Targeted Creative Communications,1000 Duke St,,Alexandria,VA,22314,Mail
+    Production,20050728,15365.99,S,H6OH02086,SCHMIDT^JEANNETTE H^^,H,OH,2,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4462,,,,,S2005,Special-General,004,,19025.99
+  record: <fec.version.v5_2.SE.Records instance at 0x1261f098>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: Targeted Creative Communications
+  - name: STREET 1
+    number: '5'
+    value: 1000 Duke St
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Alexandria
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '22314'
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: Mail Production
+  - name: DATE
+    number: '11'
+    value: '20050728'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: '15365.99'
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: S
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: H6OH02086
+  - name: S/O CAN/NAME
+    number: '15'
+    value: SCHMIDT^JEANNETTE H^^
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H
+  - name: S/O STATE
+    number: '17'
+    value: OH
+  - name: S/O CAN/DIST
+    number: '18'
+    value: '2'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00075820
+  - name: Unused field
+    number: '20'
+    value: ''
+  - name: Unused field
+    number: '21'
+    value: ''
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: '20050728'
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: ''
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: SE24.4462
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: S2005
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: Special-General
+  - name: CATEGORY CODE
+    number: '44'
+    value: '004'
+  - name: TRANS CODE
+    number: '45'
+    value: ''
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '19025.99'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE24
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00075820
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Payee)
+    number: '4'
+    value: UpGrade Films
+  - name: STREET 1
+    number: '5'
+    value: 1023 31st St
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ' 4th Fl.'
+  - name: STATE
+    number: '8'
+    value: ''
+  - name: ZIP
+    number: '9'
+    value: Washington
+  - name: TRANS Purpose DESCRIP
+    number: '10'
+    value: DC
+  - name: DATE
+    number: '11'
+    value: '20007'
+  - name: AMOUNT EXPENDED
+    number: '12'
+    value: Media Production
+  - name: SUPPORT/OPPOSE
+    number: '13'
+    value: '20050728'
+  - name: S/O FEC CAN ID NUMBER
+    number: '14'
+    value: '7597.94'
+  - name: S/O CAN/NAME
+    number: '15'
+    value: O
+  - name: S/O CAN/OFFICE
+    number: '16'
+    value: H6OH02094
+  - name: S/O STATE
+    number: '17'
+    value: HACKETT^PAUL LEWIS III^^
+  - name: S/O CAN/DIST
+    number: '18'
+    value: H
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: OH
+  - name: Unused field
+    number: '20'
+    value: '02'
+  - name: Unused field
+    number: '21'
+    value: C00075820
+  - name: Unused field
+    number: '22'
+    value: ''
+  - name: Unused field
+    number: '23'
+    value: ''
+  - name: Unused field
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: as signed
+    number: 31-
+    value: ''
+  - name: Signed
+    number: 32-
+    value: ''
+  - name: Notarized
+    number: 33-
+    value: ''
+  - name: Notary Commission Expires
+    number: 34-
+    value: '20050728'
+  - name: Notary
+    number: 35-
+    value: ''
+  - name: AMENDED CD
+    number: '36'
+    value: ''
+  - name: TRAN ID
+    number: '37'
+    value: ''
+  - name: MEMO CODE
+    number: '38'
+    value: ''
+  - name: MEMO TEXT
+    number: '39'
+    value: SE24.4463
+  - name: BACK REF TRAN ID
+    number: '40'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '41'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '42'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '43'
+    value: ''
+  - name: CATEGORY CODE
+    number: '44'
+    value: S2005
+  - name: TRANS CODE
+    number: '45'
+    value: Special-General
+  - name: CALENDAR YTD - OFFICE SOUGHT
+    number: '46'
+    value: '004'
+  - value: ''
+  - value: '285390.38'
+  expected_count: 46
+  input: SE24,C00075820,ORG,UpGrade Films,"1023 31st St, NW, 4th Fl.",,Washington,DC,20007,Media
+    Production,20050728,7597.94,O,H6OH02094,HACKETT^PAUL LEWIS III^^,H,OH,02,C00075820,,,,,,,,,,,,,20050728,,,,,SE24.4463,,,,,S2005,Special-General,004,,285390.38
+  input_count: 48
+  record: <fec.version.v5_2.SE.Records instance at 0x1261fb90>
+  result: []
+sourceurl: !!python/unicode 20050728
+type: single
