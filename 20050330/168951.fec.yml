@@ -1,0 +1,120 @@
+countraw: 3
+countrows: 1
+filename: 168951.fec
+header: {}
+rows:
+- input: F2N,H2NC01081,,Post Office Box 668,,Farmville,NC,27828,REP,H,NC,3,2006,C00305052,WALTER
+    JONES COMMITTEE 2006,PO BOX 99667,,RALEIGH,NC,27624,,,,,,,,Jones^Walter B.^^,20050330,0.00,0.00,Jones,Walter
+    B.,,,
+  record: <fec.version.v5_2.F2.Records instance at 0x12a335f0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H2NC01081
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: Post Office Box 668
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Farmville
+  - name: STATE
+    number: '7'
+    value: NC
+  - name: ZIP
+    number: '8'
+    value: '27828'
+  - name: PTY/CODE
+    number: '9'
+    value: REP
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: NC
+  - name: CAN/DIST
+    number: '12'
+    value: '3'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: C00305052
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: WALTER JONES COMMITTEE 2006
+  - name: STREET 1
+    number: '16'
+    value: PO BOX 99667
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: RALEIGH
+  - name: STATE
+    number: '19'
+    value: NC
+  - name: ZIP
+    number: '20'
+    value: '27624'
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: ''
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: Jones^Walter B.^^
+  - name: Signed
+    number: 29-
+    value: '20050330'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0.00'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: Jones
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: Walter B.
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+sourceurl: !!python/unicode 20050330
+type: single
