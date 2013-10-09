@@ -1,0 +1,180 @@
+countraw: 4
+countrows: 2
+filename: 169748.fec
+header: {}
+rows:
+- input: '"F1MN","C00363564","Marina District Development Company Political Action
+    Committee","One Borgata Way","","Atlantic City","NJ","08401","N",20041102,"COO142315","Boyd
+    Gaming Corporation Political Action Committee","","","","",0,,"","","","",0,,"","","","",0,,"","","","",0,,"","","","",0,,,,,"Darnold^Richard^^",20050408'
+  record: <fec.version.v5_2.F1M.Records instance at 0x279d680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1MN
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00363564
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Marina District Development Company Political Action Committee
+  - name: STREET 1
+    number: '4'
+    value: One Borgata Way
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Atlantic City
+  - name: STATE
+    number: '7'
+    value: NJ
+  - name: ZIP
+    number: '8'
+    value: 08401
+  - name: COMMITTEE TYPE
+    number: '9'
+    value: N
+  - name: Of Affiliation
+    number: 10-
+    value: '20041102'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '11'
+    value: COO142315
+  - name: COMMITTEE NAME
+    number: '12'
+    value: Boyd Gaming Corporation Political Action Committee
+  - name: FEC CANDIDATE ID NUMBER
+    number: '13'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '14'
+    value: ''
+  - name: CAN/OFFICE
+    number: '15'
+    value: ''
+  - name: CAN/STATE
+    number: '16'
+    value: ''
+  - name: CAN/DIST
+    number: '17'
+    value: '0'
+  - name: Of Contribution
+    number: 18-
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '19'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '20'
+    value: ''
+  - name: CAN/OFFICE
+    number: '21'
+    value: ''
+  - name: CAN/STATE
+    number: '22'
+    value: ''
+  - name: CAN/DIST
+    number: '23'
+    value: '0'
+  - name: Of Contribution
+    number: 24-
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '26'
+    value: ''
+  - name: CAN/OFFICE
+    number: '27'
+    value: ''
+  - name: CAN/STATE
+    number: '28'
+    value: ''
+  - name: CAN/DIST
+    number: '29'
+    value: '0'
+  - name: Of Contribution
+    number: 30-
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '31'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '32'
+    value: ''
+  - name: CAN/OFFICE
+    number: '33'
+    value: ''
+  - name: CAN/STATE
+    number: '34'
+    value: ''
+  - name: CAN/DIST
+    number: '35'
+    value: '0'
+  - name: Of Contribution
+    number: 36-
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '37'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '38'
+    value: ''
+  - name: CAN/OFFICE
+    number: '39'
+    value: ''
+  - name: CAN/STATE
+    number: '40'
+    value: ''
+  - name: CAN/DIST
+    number: '41'
+    value: '0'
+  - name: Of Contribution
+    number: 42-
+    value: ''
+  - name: Of 51st Contributor
+    number: 43-
+    value: ''
+  - name: Of Orig Registration
+    number: 44-
+    value: ''
+  - name: Cmte Met Requirements
+    number: 45-
+    value: ''
+  - name: NAME/TREASURER (as signed)
+    number: '46'
+    value: Darnold^Richard^^
+  - name: Signed
+    number: 47-
+    value: '20050408'
+- attempt:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FORM TYPE
+    number: '2'
+    value: F1MN
+  - name: BACK REF TRAN ID
+    number: '3'
+    value: ''
+  - name: TEXT4000
+    number: '4'
+    value: This is in response to a FEC letter dated March 30
+  - name: AMENDED CD
+    number: '5'
+    value: ' 2005.  Discussed with Brad Decker'
+  - value: ' FEC Campaign Finance Analyst and he advised to file the form 1M.  We
+      are a multicandiate committee through our Affiliation with Boyd Gaming Corporation
+      Political Action Committee.'
+  expected_count: 5
+  input: '"TEXT","F1MN","","This is in response to a FEC letter dated March 30, 2005.  Discussed
+    with Brad Decker, FEC Campaign Finance Analyst and he advised to file the form
+    1M.  We are a multicandiate committee through our Affiliation with Boyd Gaming
+    Corporation Political Action Committee."'
+  input_count: 6
+  record: <fec.version.v5_2.TEXT.Records instance at 0x279dd88>
+  result: []
+sourceurl: !!python/unicode 20050408
+type: single
