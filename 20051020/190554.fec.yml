@@ -1,0 +1,4385 @@
+countraw: 36
+countrows: 34
+filename: 190554.fec
+header: {}
+rows:
+- input: '"F3XN","C00383901","Freshmen PAC","P.O. Box 1635","","Alexandria","VA","22313   ","
+    ","X","M10","",,"",20050901,20050930,93968.64,20493.59,114462.23,11295.60,103166.63,0.00,29685.67,2725.00,17762.00,20487.00,0.00,0.00,20487.00,0.00,0.00,0.00,0.00,0.00,6.59,0.00,20493.59,20493.59,0.00,0.00,10295.60,10295.60,0.00,1000.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,11295.60,11295.60,20487.00,0.00,20487.00,10295.60,0.00,10295.60,117447.00,2005,2185304.70,2302751.70,2199585.07,103166.63,197139.00,1971197.32,2168336.32,0.00,0.00,2168336.32,0.00,0.00,0.00,0.00,0.00,16968.38,0.00,2185304.70,2185304.70,0.00,0.00,2110888.67,2110888.67,0.00,88500.00,0.00,0.00,0.00,0.00,196.40,0.00,0.00,196.40,0.00,2199585.07,2199585.07,2168336.32,196.40,2168139.92,2110888.67,0.00,2110888.67,"David
+    Metzner",20051020,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00'
+  record: <fec.version.v5_2.F3X.Records instance at 0x1dd0b48>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Freshmen PAC
+  - name: STREET 1
+    number: '4'
+    value: P.O. Box 1635
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Alexandria
+  - name: STATE
+    number: '7'
+    value: VA
+  - name: ZIP
+    number: '8'
+    value: '22313   '
+  - name: CHG OF ADDRESS
+    number: '9'
+    value: ' '
+  - name: QUALIFIED CMTE
+    number: '10'
+    value: X
+  - name: RPTCODE
+    number: '11'
+    value: M10
+  - name: RPTPGI
+    number: '12'
+    value: ''
+  - name: Of Election
+    number: 13-
+    value: ''
+  - name: STATE (Of Election)
+    number: '14'
+    value: ''
+  - name: Coverage From
+    number: 15-
+    value: '20050901'
+  - name: Coverage To
+    number: 16-
+    value: '20050930'
+  - name: Cash on Hand beginning
+    number: 17-6(b)
+    value: '93968.64'
+  - name: Total Receipts
+    number: 18-6(c)
+    value: '20493.59'
+  - name: Subtotal
+    number: 19-6(d)
+    value: '114462.23'
+  - name: Total Disbursements
+    number: 20-7.
+    value: '11295.60'
+  - name: Cash on Hand at Close
+    number: 21-8.
+    value: '103166.63'
+  - name: Debts to
+    number: 22-9.
+    value: '0.00'
+  - name: Debts by
+    number: 23-10.
+    value: '29685.67'
+  - name: Itemized
+    number: 24-11(a)i
+    value: '2725.00'
+  - name: Unitemized
+    number: 25-11(a)ii
+    value: '17762.00'
+  - name: Total
+    number: 26-11(a)iii
+    value: '20487.00'
+  - name: Political Party Committees
+    number: 27-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 28-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 29-11(d)
+    value: '20487.00'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 30-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 31-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 32-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 33-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 34-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 35-17.
+    value: '6.59'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 36-18(a)
+    value: '0.00'
+  - name: Total Receipts
+    number: 37-19.
+    value: '20493.59'
+  - name: Total Federal Receipts
+    number: 38-20.
+    value: '20493.59'
+  - name: Federal Share
+    number: 39-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 40-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 41-21(b)
+    value: '10295.60'
+  - name: Total Operating Expenditures
+    number: 42-21(c)
+    value: '10295.60'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 43-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 44-23.
+    value: '1000.00'
+  - name: Independent Expenditures
+    number: 45-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 46-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 47-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 48-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 49-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 50-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 51-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 52-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 53-29.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 54-31.
+    value: '11295.60'
+  - name: Total Federal Disbursements
+    number: 55-32.
+    value: '11295.60'
+  - name: Total Contributions
+    number: 56-33.
+    value: '20487.00'
+  - name: Total Contribution Refunds
+    number: 57-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 58-35.
+    value: '20487.00'
+  - name: Total Federal Operating Expenditures
+    number: 59-36.
+    value: '10295.60'
+  - name: Offsets to Operating Expenditures
+    number: 60-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 61-38.
+    value: '10295.60'
+  - name: Cash on Hand Jan 1, 19
+    number: 62-6(a)
+    value: '117447.00'
+  - name: Year for Above
+    number: '63'
+    value: '2005'
+  - name: Total Receipts
+    number: 64-6(c)
+    value: '2185304.70'
+  - name: Subtotal
+    number: 65-6(d)
+    value: '2302751.70'
+  - name: Total disbursements
+    number: 66-7.
+    value: '2199585.07'
+  - name: Cash on Hand Close
+    number: 67-8.
+    value: '103166.63'
+  - name: Itemized
+    number: 68-11(a)i
+    value: '197139.00'
+  - name: Unitemized
+    number: 69-11(a)ii
+    value: '1971197.32'
+  - name: Total
+    number: 70-11(a)iii
+    value: '2168336.32'
+  - name: Political Party committees
+    number: 71-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 72-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 73-11(d)
+    value: '2168336.32'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 74-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 75-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 76-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 77-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 78-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 79-17.
+    value: '16968.38'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 80-18(a)
+    value: '0.00'
+  - name: Total Receipts
+    number: 81-19.
+    value: '2185304.70'
+  - name: Total Federal Receipts
+    number: 82-20.
+    value: '2185304.70'
+  - name: Federal Share
+    number: 83-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 84-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 85-21(b)
+    value: '2110888.67'
+  - name: Total operating Expenditures
+    number: 86-21(c)
+    value: '2110888.67'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 87-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 88-23.
+    value: '88500.00'
+  - name: Independent Expenditures
+    number: 89-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 90-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 91-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 92-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 93-28(a)
+    value: '196.40'
+  - name: Political Party Committees
+    number: 94-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 95-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 96-28(d)
+    value: '196.40'
+  - name: Other Disbursements
+    number: 97-29.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 98-31.
+    value: '2199585.07'
+  - name: Total Federal Disbursements
+    number: 99-32.
+    value: '2199585.07'
+  - name: Total Contributions
+    number: 100-33.
+    value: '2168336.32'
+  - name: Total Contribution Refunds
+    number: 101-34.
+    value: '196.40'
+  - name: Net contributions
+    number: 102-35.
+    value: '2168139.92'
+  - name: Total Federal Operating Expenditures
+    number: 103-36.
+    value: '2110888.67'
+  - name: Offsets to Operating Expenditures
+    number: 104-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 105-38.
+    value: '2110888.67'
+  - name: NAME/TREASURER (as signed)
+    number: '106'
+    value: David Metzner
+  - name: Signed
+    number: 107-
+    value: '20051020'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 108-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 109-18(c)
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 110-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 111-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 112-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 113-30(c)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 114-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 115-18(c)
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 116-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 117-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 118-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 119-30(c)
+    value: '0.00'
+- input: '"SA11A1","C00383901","IND","","9 Carleton St","","Greenwich","CT","068304614","","","Self
+    Employed","Flying Instructor",250.00,20050930,100.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187738","","","","","","Ballard","Corbet
+    C.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd01b8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 9 Carleton St
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Greenwich
+  - name: STATE
+    number: '8'
+    value: CT
+  - name: ZIP
+    number: '9'
+    value: 068304614
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Self Employed
+  - name: INDOCC
+    number: '13'
+    value: Flying Instructor
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '250.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050930'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '100.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187738
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Ballard
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Corbet C.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","260 Pine Oak Ln","","New Smyrna Beach","FL","32168","","","Wacx
+    Tv 55","Technician",300.00,20050929,100.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187735","","","","","","Bolmer
+    III","George R.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0b48>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 260 Pine Oak Ln
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: New Smyrna Beach
+  - name: STATE
+    number: '8'
+    value: FL
+  - name: ZIP
+    number: '9'
+    value: '32168'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Wacx Tv 55
+  - name: INDOCC
+    number: '13'
+    value: Technician
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '300.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050929'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '100.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187735
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Bolmer III
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: George R.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","7150 Elizabeth Lake Rd","","Waterford","MI","48327","","","Homemaker","Homemaker",400.00,20050930,200.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187715","","","","","","Bonacci","Dorothy
+    L.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd01b8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 7150 Elizabeth Lake Rd
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Waterford
+  - name: STATE
+    number: '8'
+    value: MI
+  - name: ZIP
+    number: '9'
+    value: '48327'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Homemaker
+  - name: INDOCC
+    number: '13'
+    value: Homemaker
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '400.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050930'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '200.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187715
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Bonacci
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Dorothy L.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","10378 N US Highway 281","","Pratt","KS","67124","","","Apollo
+    Energy","Vice President Of Operations",250.00,20050919,250.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187707","","","","","","Byers","Sue
+    W.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 10378 N US Highway 281
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Pratt
+  - name: STATE
+    number: '8'
+    value: KS
+  - name: ZIP
+    number: '9'
+    value: '67124'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Apollo Energy
+  - name: INDOCC
+    number: '13'
+    value: Vice President Of Operations
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '250.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050919'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '250.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187707
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Byers
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Sue W.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","60 Hawthorne Rd","","Grosse Pointe Shor","MI","48236","","","Retired","Retired",250.00,20050919,250.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187706","","","","","","Dahling","William
+    D.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0b48>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 60 Hawthorne Rd
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Grosse Pointe Shor
+  - name: STATE
+    number: '8'
+    value: MI
+  - name: ZIP
+    number: '9'
+    value: '48236'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Retired
+  - name: INDOCC
+    number: '13'
+    value: Retired
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '250.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050919'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '250.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187706
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Dahling
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: William D.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","4 Greenwich Ave","","Linwood","NJ","082211421","","","S.
+    Jersey School of Business","Teacher",600.00,20050930,400.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187705","","","","","","Davis","Carl
+    E.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4 Greenwich Ave
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Linwood
+  - name: STATE
+    number: '8'
+    value: NJ
+  - name: ZIP
+    number: '9'
+    value: 082211421
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: S. Jersey School of Business
+  - name: INDOCC
+    number: '13'
+    value: Teacher
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050930'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '400.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187705
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Davis
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Carl E.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","1508 Kirby Dr","","Houston","TX","77019","","","Self
+    Employed","Realtor",600.00,20050919,100.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187719","","","","","","Ewing","John
+    K.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1508 Kirby Dr
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Houston
+  - name: STATE
+    number: '8'
+    value: TX
+  - name: ZIP
+    number: '9'
+    value: '77019'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Self Employed
+  - name: INDOCC
+    number: '13'
+    value: Realtor
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050919'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '100.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187719
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Ewing
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: John K.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","5th & Broadway","","Skagway","AK","99840","","","Self
+    Employed","Fairway Market",1400.00,20050913,600.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187704","","","","","","Fairbanks","Ervon
+    E.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 5th & Broadway
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Skagway
+  - name: STATE
+    number: '8'
+    value: AK
+  - name: ZIP
+    number: '9'
+    value: '99840'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Self Employed
+  - name: INDOCC
+    number: '13'
+    value: Fairway Market
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1400.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050913'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '600.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187704
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Fairbanks
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Ervon E.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 24621 8th Ave S
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Des Moines
+  - name: STATE
+    number: '8'
+    value: WA
+  - name: ZIP
+    number: '9'
+    value: '98198'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Biblesoft
+  - name: INDOCC
+    number: '13'
+    value: ' Inc.'
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: Owner
+  - name: DATE RECEIVED
+    number: '15'
+    value: '250.00'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '20050930'
+  - name: TRANS CODE
+    number: '17'
+    value: '100.00'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: '15'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: Receipt
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: 51017.C187740
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Gilbertson
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: Jim
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+  - value: ''
+  expected_count: 44
+  input: '"SA11A1","C00383901","IND","","24621 8th Ave S","","Des Moines","WA","98198","","","Biblesoft,
+    Inc.","Owner",250.00,20050930,100.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187740","","","","","","Gilbertson","Jim","","",""'
+  input_count: 45
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result: []
+- input: '"SA11A1","C00383901","IND","","15278 El Soneto Dr","","Whittier","CA","90605","","","Retired","Retired",225.00,20050929,75.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187763","","","","","","Pellissier","Dianne
+    J.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 15278 El Soneto Dr
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Whittier
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '90605'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Retired
+  - name: INDOCC
+    number: '13'
+    value: Retired
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '225.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050929'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187763
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Pellissier
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Dianne J.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","391 Ridgeway St","","Saint Joseph","MI","49085","","","Retired","Retired",225.00,20050930,75.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187766","","","","","","Preston","Marion
+    B.","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 391 Ridgeway St
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Saint Joseph
+  - name: STATE
+    number: '8'
+    value: MI
+  - name: ZIP
+    number: '9'
+    value: '49085'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Retired
+  - name: INDOCC
+    number: '13'
+    value: Retired
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '225.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050930'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187766
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Preston
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Marion B.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","2233 Mercer Rd","","Stoneboro","PA","16153","","","Retired","Retired",500.00,20050919,200.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187711","","","","","","Reither","Frank","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2233 Mercer Rd
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Stoneboro
+  - name: STATE
+    number: '8'
+    value: PA
+  - name: ZIP
+    number: '9'
+    value: '16153'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Retired
+  - name: INDOCC
+    number: '13'
+    value: Retired
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '500.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050919'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '200.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187711
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Reither
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Frank
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","124 Emma St","","New Iberia","LA","70560","","","Weiser
+    Security","Security Guard",700.00,20050919,200.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187710","","","","","","Terrell","Paul","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 124 Emma St
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: New Iberia
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70560'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Weiser Security
+  - name: INDOCC
+    number: '13'
+    value: Security Guard
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '700.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050919'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '200.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187710
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Terrell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Paul
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11A1","C00383901","IND","","12671 River Rd","","Richmond","VA","23238","","","Homemaker","Homemaker",250.00,20050906,75.00,"15","Receipt","","","","","",,"","","","","","","","","","51017.C187744","","","","","","Wilton","Betty","","",""'
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11A1
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 12671 River Rd
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Richmond
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23238'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Homemaker
+  - name: INDOCC
+    number: '13'
+    value: Homemaker
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '250.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20050906'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: Receipt
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: 51017.C187744
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Wilton
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Betty
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SA17
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1201 Wisconsin Ave
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: ITEM ELECT CD
+    number: '10'
+    value: '200073222'
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ''
+  - name: INDOCC
+    number: '13'
+    value: ''
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: ''
+  - name: DATE RECEIVED
+    number: '15'
+    value: '63.82'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '20050930'
+  - name: TRANS CODE
+    number: '17'
+    value: '6.59'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: 17R
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: Interest Received
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: 51017.C188282
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: PNC Bank
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+  - value: ''
+  expected_count: 44
+  input: '"SA17","C00383901","ORG","","1201 Wisconsin Ave, NW","","Washington","DC","200073222","","","","",63.82,20050930,6.59,"17R","Interest
+    Received","","","","","","","","","","","","","","","","51017.C188282","","","","","PNC
+    Bank","","","","",""'
+  input_count: 45
+  record: <fec.version.v5_2.SA.Records instance at 0x1dd03b0>
+  result: []
+- input: '"SB21b","C00383901","ORG","","777 American Expressway","","Fort Lauderdale","FL","333370001","","CREDIT
+    CARD PROCESSING","","",20050930,0.79,"C00383901","","","","",,"","","","","","","","CREDIT
+    CARD PROCESSING","","51017.E351","","","","","","","American Express","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 777 American Expressway
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Fort Lauderdale
+  - name: STATE
+    number: '8'
+    value: FL
+  - name: ZIP
+    number: '9'
+    value: '333370001'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: CREDIT CARD PROCESSING
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050930'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '0.79'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: CREDIT CARD PROCESSING
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 51017.E351
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: American Express
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 340 S Cleveland Ave
+  - name: STREET 2
+    number: '6'
+    value: 'Building 370 '
+  - name: CITY
+    number: '7'
+    value: Westerville
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '430818917'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: BANK FEE
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050915'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1060.59'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: BANK FEE
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 51017.E349
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Bank One
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ' NA'
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB21b","C00383901","ORG","","340 S Cleveland Ave","Building 370 ","Westerville","OH","430818917","","BANK
+    FEE","","",20050915,1060.59,"C00383901","","","","",,"","","","","","","","BANK
+    FEE","","51017.E349","","","","","","","Bank One, NA","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd03b0>
+  result: []
+- input: '"SB21b","C00383901","ORG","","PO Box 3016","","New Albany","OH","430543016","","CREDIT
+    CARD PROCESSING","","",20050902,10.08,"C00383901","","","","",,"","","","","","","","CREDIT
+    CARD PROCESSING","","51017.E348","","","","","","","Discover Business Center","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO Box 3016
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: New Albany
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '430543016'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: CREDIT CARD PROCESSING
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050902'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '10.08'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: CREDIT CARD PROCESSING
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 51017.E348
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Discover Business Center
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SB21b","C00383901","ORG","","7300 Chapman Hwy","","Knoxville","TN","379206612","","CREDIT
+    CARD PROCESSING","","",20050902,30.00,"C00383901","","","","",,"","","","","","","","CREDIT
+    CARD PROCESSING","","51017.E346","","","","","","","NOVA Information Systems","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 7300 Chapman Hwy
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Knoxville
+  - name: STATE
+    number: '8'
+    value: TN
+  - name: ZIP
+    number: '9'
+    value: '379206612'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: CREDIT CARD PROCESSING
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050902'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '30.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: CREDIT CARD PROCESSING
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 51017.E346
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: NOVA Information Systems
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SB21b","C00383901","ORG","","Client Service Center","800 Brooksedge Blvd
+    ","Columbus","OH","43201    ","","CREDIT CARD PROCESSING","","",20050902,175.09,"C00383901","","","","",,"","","","","","","","CREDIT
+    CARD PROCESSING","","51017.E347","","","","","","","Paymentech (MC/VS)","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: Client Service Center
+  - name: STREET 2
+    number: '6'
+    value: '800 Brooksedge Blvd '
+  - name: CITY
+    number: '7'
+    value: Columbus
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '43201    '
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: CREDIT CARD PROCESSING
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050902'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '175.09'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: CREDIT CARD PROCESSING
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 51017.E347
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Paymentech (MC/VS)
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SB21b","C00383901","ORG","","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","","PAC
+    DIRECT MAIL","","",20050906,638.39,"C00383901","","","","",,"","","","","","","","PAC
+    DIRECT MAIL","","50916.E342","","","","","","","Response Consulting","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: PAC DIRECT MAIL
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050906'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '638.39'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: PAC DIRECT MAIL
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 50916.E342
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Response Consulting
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SB21b","C00383901","ORG","","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","","PAC
+    DIRECT MAIL","","",20050906,8361.61,"C00383901","","","","",,"","","","","","","","PAC
+    DIRECT MAIL","","50916.E343","","","","","","","Response Consulting","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21b
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: PAC DIRECT MAIL
+  - name: ITEM ELECT CD
+    number: '12'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050906'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '8361.61'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: PAC DIRECT MAIL
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 50916.E343
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Response Consulting
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SB23","C00383901","CCM","","PO Box 61480","","Virginia Beach","VA","234661480","","CONTRIBUTION","P2006","",20050916,1000.00,"C00383901","H4VA02037","DRAKE^THELMA","H","VA",02,"","","","","","","","CONTRIBUTION","","50919.E344","","","","","","","Thelma
+    Drake For Congress","","","","",""'
+  record: <fec.version.v5_2.SB.Records instance at 0x1dd03b0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO Box 61480
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Virginia Beach
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '234661480'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: CONTRIBUTION
+  - name: ITEM ELECT CD
+    number: '12'
+    value: P2006
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20050916'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00383901
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: H4VA02037
+  - name: CANDIDATE NAME
+    number: '18'
+    value: DRAKE^THELMA
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: VA
+  - name: CAN/DIST
+    number: '21'
+    value: '02'
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: CONTRIBUTION
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: 50919.E344
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Thelma Drake For Congress
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Foley & Lardner LLP
+  - name: STREET 1
+    number: '5'
+    value: 3000 K St
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '200075111'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Legal/Accounting/Admin. Fees
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '2457.36'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '2457.36'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: LS50811.E313
+  expected_count: 28
+  input: '"SD10","C00383901","ORG","Foley & Lardner LLP","3000 K St, NW","","Washington","DC","200075111","Legal/Accounting/Admin.
+    Fees",2457.36,0.00,0.00,2457.36,"","","","","","","","","","","","","","LS50811.E313"'
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd08c0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Foley & Lardner LLP
+  - name: STREET 1
+    number: '5'
+    value: 3000 K St
+  - name: STREET 2
+    number: '6'
+    value: ' NW'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Washington
+  - name: ZIP
+    number: '9'
+    value: DC
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: '200075111'
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: Legal/Accounting/Admin. Fees
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '382.37'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: '382.37'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: ''
+  - value: LS50914.E339
+  expected_count: 28
+  input: '"SD10","C00383901","ORG","Foley & Lardner LLP","3000 K St, NW","","Washington","DC","200075111","Legal/Accounting/Admin.
+    Fees",382.37,0.00,0.00,382.37,"","","","","","","","","","","","","","LS50914.E339"'
+  input_count: 29
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0908>
+  result: []
+- input: '"SD10","C00383901","ORG","Koch & Hoos LLC","PO Box 1154","","Alexandria","VA","223131154","Accounting
+    Consulting",3124.25,0.00,0.00,3124.25,"","","","","","","","","","","","","","LS50916.E341"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Koch & Hoos LLC
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1154
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Alexandria
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '223131154'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Accounting Consulting
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '3124.25'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '3124.25'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50916.E341
+- input: '"SD10","C00383901","ORG","Koch & Hoos LLC","PO Box 1154","","Alexandria","VA","223131154","Accounting
+    Consluting",0.00,3473.80,0.00,3473.80,"","","","","","","","","","","","","","LS51017.E352"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0908>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Koch & Hoos LLC
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1154
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Alexandria
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '223131154'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: Accounting Consluting
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0.00'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '3473.80'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '3473.80'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS51017.E352
+- input: '"SD10","C00383901","ORG","Response Consulting","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","PAC
+    Direct Mail",638.39,0.00,638.39,0.00,"","","","","","","","","","","","","","LS50916.E342"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Response Consulting
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Direct Mail
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '638.39'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '638.39'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '0.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50916.E342
+- input: '"SD10","C00383901","ORG","Response Consulting","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","PAC
+    Direct Mail",24977.66,0.00,8361.61,16616.05,"","","","","","","","","","","","","","LS50916.E343"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0908>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Response Consulting
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Direct Mail
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '24977.66'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '8361.61'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '16616.05'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50916.E343
+- input: '"SD10","C00383901","ORG","FYI Messaging LLC","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","PAC
+    Direct Mail Processing",535.39,0.00,0.00,535.39,"","","","","","","","","","","","","","LS50811.E312"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd08c0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: FYI Messaging LLC
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Direct Mail Processing
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '535.39'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '535.39'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50811.E312
+- input: '"SD10","C00383901","ORG","FYI Messaging LLC","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","PAC
+    Direct Mail Processing",752.62,0.00,0.00,752.62,"","","","","","","","","","","","","","LS50914.E338"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0908>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: FYI Messaging LLC
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Direct Mail Processing
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '752.62'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '752.62'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50914.E338
+- input: '"SD10","C00383901","ORG","FYI Messaging LLC","2401 W Behrend Dr Ste 7","","Phoenix","AZ","850274143","PAC
+    Direct Mail Processing",0.00,646.83,0.00,646.83,"","","","","","","","","","","","","","LS51017.E353"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd08c0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: FYI Messaging LLC
+  - name: STREET 1
+    number: '5'
+    value: 2401 W Behrend Dr Ste 7
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Phoenix
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '850274143'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Direct Mail Processing
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '0.00'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '646.83'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '646.83'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS51017.E353
+- input: '"SD10","C00383901","ORG","Gingrich Communications Inc.","35 Ash Dr","","Smiths
+    Creek","MI","480744401","PAC Premium/Books",1697.00,0.00,0.00,1697.00,"","","","","","","","","","","","","","LS50914.E340"'
+  record: <fec.version.v5_2.SD.Records instance at 0x1dd0a28>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00383901
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Debtor/Creditor)
+    number: '4'
+    value: Gingrich Communications Inc.
+  - name: STREET 1
+    number: '5'
+    value: 35 Ash Dr
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Smiths Creek
+  - name: STATE
+    number: '8'
+    value: MI
+  - name: ZIP
+    number: '9'
+    value: '480744401'
+  - name: NATURE/PURPOSE DEBT DESCRIPTION
+    number: '10'
+    value: PAC Premium/Books
+  - name: BEGINNING BALANCE
+    number: '11'
+    value: '1697.00'
+  - name: INCURRED THIS PERIOD
+    number: '12'
+    value: '0.00'
+  - name: PAYMENT THIS PERIOD
+    number: '13'
+    value: '0.00'
+  - name: BALANCE AT CLOSE
+    number: '14'
+    value: '1697.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '15'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '16'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '17'
+    value: ''
+  - name: CAN/OFFICE
+    number: '18'
+    value: ''
+  - name: CAN/STATE
+    number: '19'
+    value: ''
+  - name: CAN/DIST
+    number: '20'
+    value: ''
+  - name: CONDUIT NAME
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '23'
+    value: ''
+  - name: CONDUIT CITY
+    number: '24'
+    value: ''
+  - name: CONDUIT STATE
+    number: '25'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '26'
+    value: ''
+  - name: AMENDED CD
+    number: '27'
+    value: ''
+  - name: TRAN ID
+    number: '28'
+    value: LS50914.E340
+sourceurl: !!python/unicode 20051020
+type: single
