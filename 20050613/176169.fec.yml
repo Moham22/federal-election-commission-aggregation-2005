@@ -1,0 +1,123 @@
+countraw: 3
+countrows: 1
+filename: 176169.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H2CA32099
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 601 S. Glenoaks Blvd.
+  - name: STREET 2
+    number: '5'
+    value: ' #211'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Burbank
+  - name: ZIP
+    number: '8'
+    value: CA
+  - name: PTY/CODE
+    number: '9'
+    value: '91502'
+  - name: CAN/OFFICE
+    number: '10'
+    value: DEM
+  - name: CAN/STATE
+    number: '11'
+    value: H
+  - name: CAN/DIST
+    number: '12'
+    value: CA
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '33'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: '2006'
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: ''
+  - name: STREET 1
+    number: '16'
+    value: ''
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: ''
+  - name: STATE
+    number: '19'
+    value: ''
+  - name: ZIP
+    number: '20'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: ''
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: ''
+  - name: Signed
+    number: 29-
+    value: Watson^Diane E.^^
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '20050613'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0.00'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: '0.00'
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: Watson
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: Diane
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: E.
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+  - value: ''
+  expected_count: 36
+  input: 'F2N,H2CA32099,,"601 S. Glenoaks Blvd., #211",,Burbank,CA,91502,DEM,H,CA,33,2006,,,,,,,,,,,,,,,Watson^Diane
+    E.^^,20050613,0.00,0.00,Watson,Diane,E.,,'
+  input_count: 37
+  record: <fec.version.v5_2.F2.Records instance at 0x1dc92d8>
+  result: []
+sourceurl: !!python/unicode 20050613
+type: single
