@@ -1,0 +1,159 @@
+countraw: 3
+countrows: 1
+filename: 178390.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F1MN
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00392621
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Snow Pac
+  - name: STREET 1
+    number: '4'
+    value: 175 South West Temple
+  - name: STREET 2
+    number: '5'
+    value: ' Suite 650'
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Salt Lake City
+  - name: ZIP
+    number: '8'
+    value: UT
+  - name: COMMITTEE TYPE
+    number: '9'
+    value: '84101'
+  - name: Of Affiliation
+    number: 10-
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '11'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '12'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '13'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '14'
+    value: S4WA00458
+  - name: CAN/OFFICE
+    number: '15'
+    value: George R. Nethercutt
+  - name: CAN/STATE
+    number: '16'
+    value: S
+  - name: CAN/DIST
+    number: '17'
+    value: WA
+  - name: Of Contribution
+    number: 18-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '19'
+    value: '20041008'
+  - name: CANDIDATE NAME
+    number: '20'
+    value: S4CO00189
+  - name: CAN/OFFICE
+    number: '21'
+    value: Peter Coors
+  - name: CAN/STATE
+    number: '22'
+    value: S
+  - name: CAN/DIST
+    number: '23'
+    value: CO
+  - name: Of Contribution
+    number: 24-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '25'
+    value: '20041008'
+  - name: CANDIDATE NAME
+    number: '26'
+    value: S4NC00089
+  - name: CAN/OFFICE
+    number: '27'
+    value: Richard Burr
+  - name: CAN/STATE
+    number: '28'
+    value: S
+  - name: CAN/DIST
+    number: '29'
+    value: NC
+  - name: Of Contribution
+    number: 30-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '31'
+    value: '20041008'
+  - name: CANDIDATE NAME
+    number: '32'
+    value: S4WI00116
+  - name: CAN/OFFICE
+    number: '33'
+    value: Tim J. Michels
+  - name: CAN/STATE
+    number: '34'
+    value: S
+  - name: CAN/DIST
+    number: '35'
+    value: WI
+  - name: Of Contribution
+    number: 36-
+    value: '  '
+  - name: FEC CANDIDATE ID NUMBER
+    number: '37'
+    value: '20041027'
+  - name: CANDIDATE NAME
+    number: '38'
+    value: S2UT00104
+  - name: CAN/OFFICE
+    number: '39'
+    value: Robert F. Bennett
+  - name: CAN/STATE
+    number: '40'
+    value: S
+  - name: CAN/DIST
+    number: '41'
+    value: UT
+  - name: Of Contribution
+    number: 42-
+    value: '  '
+  - name: Of 51st Contributor
+    number: 43-
+    value: '20031229'
+  - name: Of Orig Registration
+    number: 44-
+    value: '20050706'
+  - name: Cmte Met Requirements
+    number: 45-
+    value: '20031111'
+  - name: NAME/TREASURER (as signed)
+    number: '46'
+    value: '20050706'
+  - name: Signed
+    number: 47-
+    value: Stanley R. de Waal
+  - value: '20050708'
+  expected_count: 47
+  input: '"F1MN","C00392621","Snow Pac","175 South West Temple, Suite 650","","Salt
+    Lake City","UT","84101","N",,"","","S4WA00458","George R. Nethercutt","S","WA",  ,20041008,"S4CO00189","Peter
+    Coors","S","CO",  ,20041008,"S4NC00089","Richard Burr","S","NC",  ,20041008,"S4WI00116","Tim
+    J. Michels","S","WI",  ,20041027,"S2UT00104","Robert F. Bennett","S","UT",  ,20031229,20050706,20031111,20050706,"Stanley
+    R. de Waal",20050708'
+  input_count: 48
+  record: <fec.version.v5_2.F1M.Records instance at 0x1becd88>
+  result: []
+sourceurl: !!python/unicode 20050708
+type: single
