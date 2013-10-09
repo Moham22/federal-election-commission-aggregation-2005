@@ -1,0 +1,89 @@
+countraw: 3
+countrows: 1
+filename: 163212.fec
+header: {}
+rows:
+- input: F5N,C90007311,Planned Parenthood Advocates Mar Monte,201 29th Street,,Sacramento,CA,95814,,Y,,,YE,,,,20041123,20041231,0.00,0.00,Alison
+    Gaulden,20050131,,,,
+  record: <fec.version.v5_1.F5.Records instance at 0x1d62b00>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C90007311
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Planned Parenthood Advocates Mar Monte
+  - name: STREET 1
+    number: '4'
+    value: 201 29th Street
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Sacramento
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '95814'
+  - name: CHG OF ADDRESS
+    number: '9'
+    value: ''
+  - name: Qual/Non Q
+    number: 10-
+    value: Y
+  - name: INDEMP
+    number: '11'
+    value: ''
+  - name: INDOCC
+    number: '12'
+    value: ''
+  - name: RPTCODE
+    number: '13'
+    value: YE
+  - name: RPTPGI
+    number: '14'
+    value: ''
+  - name: Of Election
+    number: 15-
+    value: ''
+  - name: STATE (Of Election)
+    number: '16'
+    value: ''
+  - name: Coverage From
+    number: 17-
+    value: '20041123'
+  - name: Coverage To
+    number: 18-
+    value: '20041231'
+  - name: TOTAL CONTRIBUTION
+    number: '19'
+    value: '0.00'
+  - name: TOTAL INDEP. EXPEND
+    number: '20'
+    value: '0.00'
+  - name: Person Completing Form
+    number: 21-
+    value: Alison Gaulden
+  - name: Signed
+    number: 22-
+    value: '20050131'
+  - name: Notarized
+    number: 23-
+    value: ''
+  - name: Notary Commission Expires
+    number: 24-
+    value: ''
+  - name: Notary
+    number: 25-
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 26-24
+    value: ''
+sourceurl: !!python/unicode 20050131
+type: single
