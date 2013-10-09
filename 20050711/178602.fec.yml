@@ -1,0 +1,209 @@
+countraw: 3
+countrows: 1
+filename: 178602.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F1N
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00266585
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Greenberg Traurig
+  - name: STREET 1
+    number: '4'
+    value: ' LLP PAC'
+  - name: STREET 2
+    number: '5'
+    value: 1221 Brickell Avenue
+  - name: CITY
+    number: '6'
+    value: ''
+  - name: STATE
+    number: '7'
+    value: Miami
+  - name: ZIP
+    number: '8'
+    value: FL
+  - name: Submitted
+    number: 9-
+    value: '33131'
+  - name: CHG OF COMMITTEE NAME
+    number: '10'
+    value: '20050707'
+  - name: CHG OF ADDRESS
+    number: '11'
+    value: X
+  - name: COMMITTEE TYPE
+    number: 12-5.
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: 13-5.
+    value: E
+  - name: CANDIDATE NAME
+    number: 14-5.
+    value: ''
+  - name: CAN/OFFICE
+    number: 15-5.
+    value: ''
+  - name: CAN/STATE
+    number: 16-5.
+    value: ''
+  - name: CAN/DIST
+    number: 17-5.
+    value: ''
+  - name: PARTY CODE
+    number: 18-5.
+    value: '0'
+  - name: PARTY TYPE
+    number: 19-5.
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: 20-6.
+    value: ''
+  - name: COMMITTEE NAME (Affiliated)
+    number: 21-6.
+    value: ''
+  - name: STREET 1
+    number: 22-6.
+    value: Greenberg Traurig
+  - name: STREET 2
+    number: 23-6.
+    value: ' LLP'
+  - name: CITY
+    number: 24-6.
+    value: 1221 Brickell Avenue
+  - name: STATE
+    number: 25-6.
+    value: ''
+  - name: ZIP
+    number: 26-6.
+    value: Miami
+  - name: RELATIONSHIP (w/ Above Cmte)
+    number: 27-6.
+    value: FL
+  - name: ORGANIZATION TYPE
+    number: 28-6.
+    value: '33131'
+  - name: Custodian Name
+    number: '29-7. '
+    value: Connected
+  - name: STREET 1
+    number: 30-7.
+    value: C
+  - name: STREET 2
+    number: 31-7.
+    value: A.^Clifford^Mr.^Schulman
+  - name: CITY
+    number: 32-7.
+    value: 1221 Brickell Avenue
+  - name: STATE
+    number: 33-7.
+    value: ''
+  - name: ZIP
+    number: 34-7.
+    value: Miami
+  - name: TITLE
+    number: 35-7.
+    value: FL
+  - name: TELEPHONE
+    number: 36-7.
+    value: '33131'
+  - name: Treasurer
+    number: '37-8. '
+    value: Custodian of Records
+  - name: STREET 1
+    number: 38-8.
+    value: '3055790500'
+  - name: STREET 2
+    number: 39-8.
+    value: A.^Clifford^Mr.^Schulman
+  - name: CITY
+    number: 40-8.
+    value: 1221 Brickell Avenue
+  - name: STATE
+    number: 41-8.
+    value: ''
+  - name: ZIP
+    number: 42-8.
+    value: Miami
+  - name: TITLE
+    number: 43-8.
+    value: FL
+  - name: TELEPHONE
+    number: 44-8.
+    value: '33131'
+  - name: Designated Agent
+    number: '45-8. '
+    value: Treasurer
+  - name: STREET 1
+    number: 46-8.
+    value: '3055790500'
+  - name: STREET 2
+    number: 47-8.
+    value: Ferro^Simon^^
+  - name: CITY
+    number: 48-8.
+    value: 1221 Brickell Avenue
+  - name: STATE
+    number: 49-8.
+    value: ''
+  - name: ZIP
+    number: 50-8.
+    value: Miami
+  - name: TITLE
+    number: 51-8.
+    value: FL
+  - name: TELEPHONE
+    number: 52-8.
+    value: '33131'
+  - name: Bank/Depository
+    number: '53-9. '
+    value: Assistant Treasurer
+  - name: STREET 1
+    number: 54-9.
+    value: '3055790500'
+  - name: STREET 2
+    number: 55-9.
+    value: Union Planters
+  - name: CITY
+    number: 56-9.
+    value: 1221 Brickell Avenue
+  - name: STATE
+    number: 57-9.
+    value: ''
+  - name: ZIP
+    number: 58-9.
+    value: Miami
+  - name: NAME/TREASURER (as signed)
+    number: '59'
+    value: Fl
+  - name: Signed
+    number: 60-
+    value: '33131'
+  - name: COMMITTEE EMAIL
+    number: '61'
+    value: A.^Clifford^Mr.^Schulman
+  - name: COMMITTEE WEB URL
+    number: '62'
+    value: '20050707'
+  - name: COMMITTEE FAX NUMBER
+    number: '63'
+    value: ARRIETEE@gtlaw.com
+  - value: ''
+  - value: 305-789-5448
+  expected_count: 63
+  input: '"F1N","C00266585","Greenberg Traurig, LLP PAC","1221 Brickell Avenue","","Miami","FL","33131",20050707,"X","","E","","","","",0,"","","","Greenberg
+    Traurig, LLP","1221 Brickell Avenue","","Miami","FL","33131","Connected","C","A.^Clifford^Mr.^Schulman","1221
+    Brickell Avenue","","Miami","FL","33131","Custodian of Records",3055790500,"A.^Clifford^Mr.^Schulman","1221
+    Brickell Avenue","","Miami","FL","33131","Treasurer",3055790500,"Ferro^Simon^^","1221
+    Brickell Avenue","","Miami","FL","33131","Assistant Treasurer",3055790500,"Union
+    Planters","1221 Brickell Avenue","","Miami","Fl","33131","A.^Clifford^Mr.^Schulman",20050707,"ARRIETEE@gtlaw.com","","305-789-5448"'
+  input_count: 65
+  record: <fec.version.v5_2.F1.Records instance at 0x1dccdd0>
+  result: []
+sourceurl: !!python/unicode 20050711
+type: single
