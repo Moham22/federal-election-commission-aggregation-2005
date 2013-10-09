@@ -1,0 +1,758 @@
+countraw: 11
+countrows: 9
+filename: 192800.fec
+header: {}
+rows:
+- input: F6,C00414151,JIM GILCHRIST FOR CONGRESS INC,24551 RAYMOND WAY SUITE 250,,LAKE
+    FOREST,CA,92630,H6CA48088,GILCHRIST^JAMES W^^,H,CA,48,20051130
+  record: <fec.version.v5_2.F6.Records instance at 0x1dcd7a0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: COMMITTEE NAME
+    number: '3'
+    value: JIM GILCHRIST FOR CONGRESS INC
+  - name: STREET 1
+    number: '4'
+    value: 24551 RAYMOND WAY SUITE 250
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: LAKE FOREST
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '92630'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '9'
+    value: H6CA48088
+  - name: CANDIDATE NAME
+    number: '10'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/OFFICE
+    number: '11'
+    value: H
+  - name: CAN/STATE
+    number: '12'
+    value: CA
+  - name: CAN/DIST
+    number: '13'
+    value: '48'
+  - name: Signed
+    number: 14-
+    value: '20051130'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Becker
+  - name: STREET 1
+    number: '5'
+    value: ' Bruce'
+  - name: STREET 2
+    number: '6'
+    value: 5363 Balboa Blvd Suite 246
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Encino
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: INDEMP
+    number: '10'
+    value: '91316'
+  - name: INDOCC
+    number: '11'
+    value: self
+  - name: Of Contribution
+    number: 12-
+    value: Physician
+  - name: AMOUNT
+    number: '13'
+    value: '20051129'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '250.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28629
+  expected_count: 27
+  input: F65,C00414151,ORG,"Becker, Bruce",5363 Balboa Blvd Suite 246,,Encino,CA,91316,self,Physician,20051129,250.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28629
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcdd40>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Becker
+  - name: STREET 1
+    number: '5'
+    value: ' Bruce'
+  - name: STREET 2
+    number: '6'
+    value: 5363 Balboa Blvd Suite 246
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Encino
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: INDEMP
+    number: '10'
+    value: '91316'
+  - name: INDOCC
+    number: '11'
+    value: self
+  - name: Of Contribution
+    number: 12-
+    value: Physician
+  - name: AMOUNT
+    number: '13'
+    value: '20051129'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '300.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28630
+  expected_count: 27
+  input: F65,C00414151,ORG,"Becker, Bruce",5363 Balboa Blvd Suite 246,,Encino,CA,91316,self,Physician,20051129,300.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28630
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcd7a0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Benesch
+  - name: STREET 1
+    number: '5'
+    value: ' George'
+  - name: STREET 2
+    number: '6'
+    value: P O Box 101558
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Anchorage
+  - name: ZIP
+    number: '9'
+    value: AK
+  - name: INDEMP
+    number: '10'
+    value: '99510'
+  - name: INDOCC
+    number: '11'
+    value: None
+  - name: Of Contribution
+    number: 12-
+    value: Retired
+  - name: AMOUNT
+    number: '13'
+    value: '20051129'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '600.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28628
+  expected_count: 27
+  input: F65,C00414151,ORG,"Benesch, George",P O Box 101558,,Anchorage,AK,99510,None,Retired,20051129,600.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28628
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcdd40>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Bruce
+  - name: STREET 1
+    number: '5'
+    value: ' Tammy'
+  - name: STREET 2
+    number: '6'
+    value: '5850 W 3rd St #328'
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Los Angeles
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: INDEMP
+    number: '10'
+    value: '90036'
+  - name: INDOCC
+    number: '11'
+    value: Self
+  - name: Of Contribution
+    number: 12-
+    value: Writer/Radio talk show host
+  - name: AMOUNT
+    number: '13'
+    value: '20051129'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '1600.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28631
+  expected_count: 27
+  input: 'F65,C00414151,ORG,"Bruce, Tammy",5850 W 3rd St #328,,Los Angeles,CA,90036,Self,Writer/Radio
+    talk show host,20051129,1600.00,C00414151,H6CA48088,GILCHRIST^JAMES W^^,H,CA,48,,,,,,,,F6.28631'
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcd7a0>
+  result: []
+- input: F65,C00414151,IND,Clarke^Heath B^^,3334 East Coast Hwy 315,,Corona del Mar,CA,92625,Interchange
+    Corp,CEO,20051129,1000.00,C00414151,H6CA48088,GILCHRIST^JAMES W^^,H,CA,48,,,,,,,,F6.28632
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcdd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Clarke^Heath B^^
+  - name: STREET 1
+    number: '5'
+    value: 3334 East Coast Hwy 315
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Corona del Mar
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92625'
+  - name: INDEMP
+    number: '10'
+    value: Interchange Corp
+  - name: INDOCC
+    number: '11'
+    value: CEO
+  - name: Of Contribution
+    number: 12-
+    value: '20051129'
+  - name: AMOUNT
+    number: '13'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00414151
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: H6CA48088
+  - name: CANDIDATE NAME
+    number: '16'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/OFFICE
+    number: '17'
+    value: H
+  - name: CAN/STATE
+    number: '18'
+    value: CA
+  - name: CAN/DIST
+    number: '19'
+    value: '48'
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F6.28632
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Edmonston
+  - name: STREET 1
+    number: '5'
+    value: ' Brian'
+  - name: STREET 2
+    number: '6'
+    value: 13460 Old Winery Rd
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Poway
+  - name: ZIP
+    number: '9'
+    value: CA
+  - name: INDEMP
+    number: '10'
+    value: '92064'
+  - name: INDOCC
+    number: '11'
+    value: iCODING
+  - name: Of Contribution
+    number: 12-
+    value: Retired
+  - name: AMOUNT
+    number: '13'
+    value: '20051129'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '500.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28633
+  expected_count: 27
+  input: F65,C00414151,ORG,"Edmonston, Brian",13460 Old Winery Rd,,Poway,CA,92064,iCODING,Retired,20051129,500.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28633
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcd7a0>
+  result: []
+- input: F65,C00414151,IND,Spinosa^Stephen G^^,15 Terrace Rd,,Benton,NJ,07005,Spinosa
+    Enterprises,Financial Advisor,20051129,1000.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28636
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcdd40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Spinosa^Stephen G^^
+  - name: STREET 1
+    number: '5'
+    value: 15 Terrace Rd
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Benton
+  - name: STATE
+    number: '8'
+    value: NJ
+  - name: ZIP
+    number: '9'
+    value: '07005'
+  - name: INDEMP
+    number: '10'
+    value: Spinosa Enterprises
+  - name: INDOCC
+    number: '11'
+    value: Financial Advisor
+  - name: Of Contribution
+    number: 12-
+    value: '20051129'
+  - name: AMOUNT
+    number: '13'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: C00414151
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: H6CA48088
+  - name: CANDIDATE NAME
+    number: '16'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/OFFICE
+    number: '17'
+    value: H
+  - name: CAN/STATE
+    number: '18'
+    value: CA
+  - name: CAN/DIST
+    number: '19'
+    value: '48'
+  - name: CONDUIT NAME
+    number: '20'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: F6.28636
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00414151
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: NAME (Contributor/Lender)
+    number: '4'
+    value: Trout
+  - name: STREET 1
+    number: '5'
+    value: ' Michael'
+  - name: STREET 2
+    number: '6'
+    value: 2901 Appling Woods
+  - name: CITY
+    number: '7'
+    value: ''
+  - name: STATE
+    number: '8'
+    value: Plant City
+  - name: ZIP
+    number: '9'
+    value: FL
+  - name: INDEMP
+    number: '10'
+    value: '33565'
+  - name: INDOCC
+    number: '11'
+    value: uretek
+  - name: Of Contribution
+    number: 12-
+    value: construction
+  - name: AMOUNT
+    number: '13'
+    value: '20051130'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '14'
+    value: '1000.00'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '15'
+    value: C00414151
+  - name: CANDIDATE NAME
+    number: '16'
+    value: H6CA48088
+  - name: CAN/OFFICE
+    number: '17'
+    value: GILCHRIST^JAMES W^^
+  - name: CAN/STATE
+    number: '18'
+    value: H
+  - name: CAN/DIST
+    number: '19'
+    value: CA
+  - name: CONDUIT NAME
+    number: '20'
+    value: '48'
+  - name: CONDUIT STREET 1
+    number: '21'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '22'
+    value: ''
+  - name: CONDUIT CITY
+    number: '23'
+    value: ''
+  - name: CONDUIT STATE
+    number: '24'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '25'
+    value: ''
+  - name: AMENDED CD
+    number: '26'
+    value: ''
+  - name: TRAN ID
+    number: '27'
+    value: ''
+  - value: F6.28637
+  expected_count: 27
+  input: F65,C00414151,ORG,"Trout, Michael",2901 Appling Woods,,Plant City,FL,33565,uretek,construction,20051130,1000.00,C00414151,H6CA48088,GILCHRIST^JAMES
+    W^^,H,CA,48,,,,,,,,F6.28637
+  input_count: 28
+  record: <fec.version.v5_2.F65.Records instance at 0x1dcd7a0>
+  result: []
+sourceurl: !!python/unicode 20051201
+type: single
