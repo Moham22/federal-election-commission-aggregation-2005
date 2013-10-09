@@ -1,0 +1,5389 @@
+countraw: 8051
+countrows: 8039
+filename: 177944.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427197
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 5294-1427197
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","500.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427197","5294-1427197","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1172ac68>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427198
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 5294-1427198
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","500.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427198","5294-1427198","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1172ad40>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427216
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 54286-1427216
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427216","54286-1427216","SA11C","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1172ae18>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427217
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 54286-1427217
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","1000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427217","54286-1427217","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1172aef0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '50.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447016
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 546616-1447016
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","50.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447016","546616-1447016","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1172afc8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '50.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447017
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 546616-1447017
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","50.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447017","546616-1447017","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117310e0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447020
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 603995-1447020
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","500.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447020","603995-1447020","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117311b8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447021
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 603995-1447021
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","500.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447021","603995-1447021","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731290>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447043
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 60808-1447043
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","2000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447043","60808-1447043","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731368>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447044
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 60808-1447044
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","2000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447044","60808-1447044","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731440>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '5000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447026
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 6370-1447026
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","5000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447026","6370-1447026","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO Box 65056
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Baltimore
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21209'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: G2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '5000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00199836
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Ben Cardin
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: MD
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 44240-1427228
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 6555-1427228
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Ben Cardin for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","PO Box 65056","","Baltimore","MD","21209","","","G2004","","20041123","5000.00","C00199836","","Ben
+    Cardin","H","MD","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","44240-1427228","6555-1427228","SA11C","","","","","Ben
+    Cardin for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x1171c5f0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427199
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 685774-1427199
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","500.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427199","685774-1427199","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731680>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427200
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 685774-1427200
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","500.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427200","685774-1427200","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731758>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427218
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 685795-1427218
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","1000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427218","685795-1427218","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731830>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427219
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 685795-1427219
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427219","685795-1427219","SA11C","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731908>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427214
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 706430-1427214
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427214","706430-1427214","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117319e0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427215
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 706430-1427215
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","1000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427215","706430-1427215","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731ab8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447039
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736407-1447039
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","500.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447039","736407-1447039","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731b90>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447040
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736407-1447040
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","500.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447040","736407-1447040","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731c68>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '50.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447002
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736408-1447002
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","50.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447002","736408-1447002","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731d40>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '50.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447008
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736408-1447008
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","50.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447008","736408-1447008","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731e18>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '200.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447003
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736409-1447003
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","200.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447003","736409-1447003","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731ef0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '200.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447007
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736409-1447007
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","200.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447007","736409-1447007","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11731fc8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447004
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736410-1447004
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447004","736410-1447004","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117380e0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447005
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736411-1447005
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447005","736411-1447005","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117381b8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447006
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736412-1447006
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","2000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447006","736412-1447006","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738290>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447009
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736413-1447009
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","500.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447009","736413-1447009","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738368>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447010
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736414-1447010
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","2000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447010","736414-1447010","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738440>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447022
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736415-1447022
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","2000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447022","736415-1447022","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738518>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447024
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736416-1447024
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","2000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447024","736416-1447024","SA11AI","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117385f0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '2000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447025
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 736416-1447025
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","2000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447025","736416-1447025","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117386c8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '750.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427206
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 75515-1427206
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","750.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427206","75515-1427206","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x117387a0>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '750.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427207
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 75515-1427207
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","750.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427207","75515-1427207","SA11C","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738878>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '5000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1427203
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 8860-1427203
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","5000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1427203","8860-1427203","SA11C","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738950>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '5000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1427202
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 8860-1427202
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041123","5000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1427202","8860-1427202","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738a28>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041123'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '500.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1462329
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 99672-1462329
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11AI
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041123","500.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1462329","99672-1462329","SA11AI","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738b00>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 511 Congress Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Napoleonville
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70390'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041129'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00397034
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Charlie Melancon
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719525-1447029
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 44403-1447029
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Charlie Melancon for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","511 Congress Street","","Napoleonville","LA","70390","","","R2004","","20041129","1000.00","C00397034","","Charlie
+    Melancon","H","LA","03","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719525-1447029","44403-1447029","SA11C","","","","","Charlie
+    Melancon for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738bd8>
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB23
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00000935
+  - name: ENTITY TYPE
+    number: '3'
+    value: CCM
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1011 Lakeshore Drive
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Lake Charles
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70602'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: ''
+  - name: ITEM ELECT CD
+    number: '12'
+    value: R2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041129'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '1000.00'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: C00395558
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: Willie Mount
+  - name: CAN/OFFICE
+    number: '19'
+    value: H
+  - name: CAN/STATE
+    number: '20'
+    value: LA
+  - name: CAN/DIST
+    number: '21'
+    value: '07'
+  - name: CONDUIT NAME
+    number: '22'
+    value: DCCC
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: 430 South Capitol St
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ' SE'
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: Washington
+  - name: CONDUIT ZIP
+    number: '27'
+    value: DC
+  - name: MEMO CODE
+    number: '28'
+    value: '20003'
+  - name: MEMO TEXT
+    number: '29'
+    value: X
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: 719524-1447030
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: 44403-1447030
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: SA11C
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: ''
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: Willie Landry Mount for Congress
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+  - value: ''
+  expected_count: 43
+  input: '"SB23","C00000935","CCM","","1011 Lakeshore Drive","","Lake Charles","LA","70602","","","R2004","","20041129","1000.00","C00395558","","Willie
+    Mount","H","LA","07","DCCC","430 South Capitol St, SE","","Washington","DC","20003","X","","","719524-1447030","44403-1447030","SA11C","","","","","Willie
+    Landry Mount for Congress","","","","",""'
+  input_count: 44
+  record: <fec.version.v5_2.SB.Records instance at 0x11738cb0>
+  result: []
+sourceurl: !!python/unicode 20050706
+type: chunk
