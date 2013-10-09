@@ -1,0 +1,125 @@
+countraw: 3
+countrows: 1
+filename: 166517.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H2TX23082
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 1519 Washington Street
+  - name: STREET 2
+    number: '5'
+    value: 2nd Floor
+  - name: CITY
+    number: '6'
+    value: ' Suite 200'
+  - name: STATE
+    number: '7'
+    value: Laredo
+  - name: ZIP
+    number: '8'
+    value: TX
+  - name: PTY/CODE
+    number: '9'
+    value: '78042'
+  - name: CAN/OFFICE
+    number: '10'
+    value: DEM
+  - name: CAN/STATE
+    number: '11'
+    value: H
+  - name: CAN/DIST
+    number: '12'
+    value: TX
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '28'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: '2006'
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: C00371302
+  - name: STREET 1
+    number: '16'
+    value: Texans for Henry Cuellar Congressional Campaign
+  - name: STREET 2
+    number: '17'
+    value: 1519 Washington Street
+  - name: CITY
+    number: '18'
+    value: 2nd Floor
+  - name: STATE
+    number: '19'
+    value: ' Suite 200'
+  - name: ZIP
+    number: '20'
+    value: Laredo
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: TX
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: '78042'
+  - name: STREET 1
+    number: '23'
+    value: C00371302
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ''
+  - name: ZIP
+    number: '27'
+    value: ''
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: ''
+  - name: Signed
+    number: 29-
+    value: ''
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: Henry Cuellar
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '20050302'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: '0'
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: '0'
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: Cuellar
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: Henry
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: Roberto
+  - value: ''
+  - value: ''
+  expected_count: 36
+  input: F2N,H2TX23082,,1519 Washington Street,"2nd Floor, Suite 200",Laredo,TX,78042,DEM,H,TX,28,2006,C00371302,Texans
+    for Henry Cuellar Congressional Campaign,1519 Washington Street,"2nd Floor, Suite
+    200",Laredo,TX,78042,C00371302,,,,,,,Henry Cuellar,20050302,0,0,Cuellar,Henry,Roberto,,
+  input_count: 38
+  record: <fec.version.v5_2.F2.Records instance at 0x194f878>
+  result: []
+sourceurl: !!python/unicode 20050303
+type: single
