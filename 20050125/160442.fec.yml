@@ -1,0 +1,4344 @@
+countraw: 32
+countrows: 30
+filename: 160442.fec
+header: {}
+rows:
+- input: '"F3XN","C00215384","ONEOK Inc. Employee Political Action Committee","P.O.  Box   871","","Tulsa","OK","74102","","X","YE","",,"",20041123,20041231,12123.58,4033.84,16157.42,0.00,16157.42,0.00,0.00,3136.50,887.23,4023.73,0.00,0.00,4023.73,0.00,0.00,0.00,0.00,0.00,10.11,0.00,4033.84,4033.84,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,4023.73,0.00,4023.73,0.00,0.00,0.00,18517.64,2004,32556.10,51073.74,34916.32,16157.42,21983.50,10286.43,32269.93,0.00,0.00,32269.93,0.00,0.00,0.00,0.00,0.00,286.17,0.00,32556.10,32556.10,0.00,0.00,0.00,0.00,0.00,5000.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,29916.32,34916.32,34916.32,32269.93,0.00,32269.93,0.00,0.00,0.00,"Vandiver^Claudia^^",20050125,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00'
+  record: <fec.version.v5_1.F3X.Records instance at 0x23dffc8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: COMMITTEE NAME
+    number: '3'
+    value: ONEOK Inc. Employee Political Action Committee
+  - name: STREET 1
+    number: '4'
+    value: P.O.  Box   871
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Tulsa
+  - name: STATE
+    number: '7'
+    value: OK
+  - name: ZIP
+    number: '8'
+    value: '74102'
+  - name: CHG OF ADDRESS
+    number: '9'
+    value: ''
+  - name: QUALIFIED CMTE
+    number: '10'
+    value: X
+  - name: RPTCODE
+    number: '11'
+    value: YE
+  - name: RPTPGI
+    number: '12'
+    value: ''
+  - name: Of Election
+    number: 13-
+    value: ''
+  - name: STATE (Of Election)
+    number: '14'
+    value: ''
+  - name: Coverage From
+    number: 15-
+    value: '20041123'
+  - name: Coverage To
+    number: 16-
+    value: '20041231'
+  - name: Cash on Hand beginning
+    number: 17-6(b)
+    value: '12123.58'
+  - name: Total Receipts
+    number: 18-6(c)
+    value: '4033.84'
+  - name: Subtotal
+    number: 19-6(d)
+    value: '16157.42'
+  - name: Total Disbursements
+    number: 20-7.
+    value: '0.00'
+  - name: Cash on Hand at Close
+    number: 21-8.
+    value: '16157.42'
+  - name: Debts to
+    number: 22-9.
+    value: '0.00'
+  - name: Debts by
+    number: 23-10.
+    value: '0.00'
+  - name: Itemized
+    number: 24-11(a)i
+    value: '3136.50'
+  - name: Unitemized
+    number: 25-11(a)ii
+    value: '887.23'
+  - name: Total
+    number: 26-11(a)iii
+    value: '4023.73'
+  - name: Political Party Committees
+    number: 27-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 28-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 29-11(d)
+    value: '4023.73'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 30-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 31-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 32-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 33-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 34-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 35-17.
+    value: '10.11'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 36-18(a)
+    value: '0.00'
+  - name: Total Receipts
+    number: 37-19.
+    value: '4033.84'
+  - name: Total Federal Receipts
+    number: 38-20.
+    value: '4033.84'
+  - name: Federal Share
+    number: 39-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 40-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 41-21(b)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 42-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 43-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 44-23.
+    value: '0.00'
+  - name: Independent Expenditures
+    number: 45-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 46-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 47-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 48-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 49-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 50-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 51-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 52-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 53-29.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 54-31.
+    value: '0.00'
+  - name: Total Federal Disbursements
+    number: 55-32.
+    value: '0.00'
+  - name: Total Contributions
+    number: 56-33.
+    value: '4023.73'
+  - name: Total Contribution Refunds
+    number: 57-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 58-35.
+    value: '4023.73'
+  - name: Total Federal Operating Expenditures
+    number: 59-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 60-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 61-38.
+    value: '0.00'
+  - name: Cash on Hand Jan 1, 19
+    number: 62-6(a)
+    value: '18517.64'
+  - name: Year for Above
+    number: '63'
+    value: '2004'
+  - name: Total Receipts
+    number: 64-6(c)
+    value: '32556.10'
+  - name: Subtotal
+    number: 65-6(d)
+    value: '51073.74'
+  - name: Total disbursements
+    number: 66-7.
+    value: '34916.32'
+  - name: Cash on Hand Close
+    number: 67-8.
+    value: '16157.42'
+  - name: Itemized
+    number: 68-11(a)i
+    value: '21983.50'
+  - name: Unitemized
+    number: 69-11(a)ii
+    value: '10286.43'
+  - name: Total
+    number: 70-11(a)iii
+    value: '32269.93'
+  - name: Political Party committees
+    number: 71-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 72-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 73-11(d)
+    value: '32269.93'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 74-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 75-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 76-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 77-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 78-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 79-17.
+    value: '286.17'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 80-18(a)
+    value: '0.00'
+  - name: Total Receipts
+    number: 81-19.
+    value: '32556.10'
+  - name: Total Federal Receipts
+    number: 82-20.
+    value: '32556.10'
+  - name: Federal Share
+    number: 83-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 84-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 85-21(b)
+    value: '0.00'
+  - name: Total operating Expenditures
+    number: 86-21(c)
+    value: '0.00'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 87-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 88-23.
+    value: '5000.00'
+  - name: Independent Expenditures
+    number: 89-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 90-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 91-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 92-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 93-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 94-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 95-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 96-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 97-29.
+    value: '29916.32'
+  - name: Total Disbursements
+    number: 98-31.
+    value: '34916.32'
+  - name: Total Federal Disbursements
+    number: 99-32.
+    value: '34916.32'
+  - name: Total Contributions
+    number: 100-33.
+    value: '32269.93'
+  - name: Total Contribution Refunds
+    number: 101-34.
+    value: '0.00'
+  - name: Net contributions
+    number: 102-35.
+    value: '32269.93'
+  - name: Total Federal Operating Expenditures
+    number: 103-36.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 104-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 105-38.
+    value: '0.00'
+  - name: NAME/TREASURER (as signed)
+    number: '106'
+    value: Vandiver^Claudia^^
+  - name: Signed
+    number: 107-
+    value: '20050125'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 108-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 109-18(c)
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 110-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 111-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 112-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 113-30(c)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 114-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 115-18(c)
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 116-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 117-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 118-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 119-30(c)
+    value: '0.00'
+- input: '"SA11ai","C00215384","IND","","2121 EAST 30TH STREET","","Tulsa","OK","74114","","","ONEOK
+    INC - EXEC OFFICERS","SR VP & GEN COUNSEL.347004.CORP OFFICE",1200.00,,150.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($50.00 Semi-Monthly)","","PR930140510617","","","","","","GABERINO","JOHN","ANTHONY","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23df7a0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2121 EAST 30TH STREET
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74114'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: SR VP & GEN COUNSEL.347004.CORP OFFICE
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1200.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '150.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($50.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930140510617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: GABERINO
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JOHN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ANTHONY
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","4616 E 94TH ST SO","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","VP MARKETING.410002.NONREG OFFICERS.EX",600.00,,50.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($50.00 Semi-Monthly)","","PR930140610617","","","","","","DRAKE","GEORGE","W","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23dfb48>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4616 E 94TH ST SO
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP MARKETING.410002.NONREG OFFICERS.EX
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '50.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($50.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930140610617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: DRAKE
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: GEORGE
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: W
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","1530 BIXBY ROAD","","Mounds","OK","74047","","","ONEOK
+    INC - EXEC OFFICERS","PRES ENERGY MKTG & TRADING.274003.NONR",1210.00,,150.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($50.00 Semi-Monthly)","","PR930140910617","","","","","","SKOOG","CHRISTOPHER","R","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23df758>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1530 BIXBY ROAD
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Mounds
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74047'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: PRES ENERGY MKTG & TRADING.274003.NONR
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1210.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '150.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($50.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930140910617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: SKOOG
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: CHRISTOPHER
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: R
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","14409 SOUTH 52 EAST AVE","","Bixby","OK","74008","","","ONEOK
+    INC - EXEC OFFICERS","SR VP TRADING.541001.NONREG OFFICERS.E",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930141010617","","","","","","MAXWELL","WILLIAM","S","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23dee18>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 14409 SOUTH 52 EAST AVE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bixby
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74008'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: SR VP TRADING.541001.NONREG OFFICERS.E
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930141010617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: MAXWELL
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: WILLIAM
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: S
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","6108 S. LOUISVILLE","","Tulsa","OK","74136","","","ONEOK
+    INC - EXEC OFFICERS","SR VP ADMINISTRATION.461003.CORP OFFIC",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930141110617","","","","","","FARRELL","EDMUND","J","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de200>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 6108 S. LOUISVILLE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74136'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: SR VP ADMINISTRATION.461003.CORP OFFIC
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930141110617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: FARRELL
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: EDMUND
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","10114 EAST 93RD STREET NORTH","","Owasso","OK","74055","","","ONEOK
+    INC - CORP EMPLOYEES","MGR IV.204038.BENEFITS & PAYROLL.HR",240.00,,30.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($10.00 Semi-Monthly)","","PR930144010617","","","","","","MANNING","JOHN","E","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de320>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 10114 EAST 93RD STREET NORTH
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Owasso
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74055'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - CORP EMPLOYEES
+  - name: INDOCC
+    number: '13'
+    value: MGR IV.204038.BENEFITS & PAYROLL.HR
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '240.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '30.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($10.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930144010617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: MANNING
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JOHN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: E
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","4316 W 88 ST S","","Tulsa","OK","74132","","","ONEOK
+    INC - EXEC OFFICERS","VP ACQUISITIONS AND EXPLORATIO.490002.",1215.00,,150.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($50.00 Semi-Monthly)","","PR930145410617","","","","","","LOVELL","KENNETH","D","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4316 W 88 ST S
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74132'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP ACQUISITIONS AND EXPLORATIO.490002.
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1215.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '150.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($50.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930145410617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: LOVELL
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: KENNETH
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: D
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","2251 E 38 ST","","Tulsa","OK","74105","","","ONEOK
+    INC - EXEC OFFICERS","VP ENGINEERING & OPER.402008.NONREG OF",420.00,,195.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($65.00 Semi-Monthly)","","PR930145510617","","","","","","SOUTHMAYD","WILLIAM","C","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de200>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2251 E 38 ST
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74105'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP ENGINEERING & OPER.402008.NONREG OF
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '420.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '195.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($65.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930145510617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: SOUTHMAYD
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: WILLIAM
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: C
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","5709 E 106","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","SR VP TREASURER & CFO.348004.CORP OFFI",720.00,,90.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($30.00 Semi-Monthly)","","PR930146610617","","","","","","KNEALE","JAMES","C","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de3f8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 5709 E 106
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: SR VP TREASURER & CFO.348004.CORP OFFI
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '720.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '90.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($30.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930146610617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: KNEALE
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JAMES
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: C
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","4033 NEPTUNE DRIVE","","Oklahoma City","OK","73116","","","ONEOK
+    INC - CORP EMPLOYEES","MGR IV.204043.GOVT AFFAIRS - STATE.PUB",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930146810617","","","","","","LUBER","E","H","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de128>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4033 NEPTUNE DRIVE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Oklahoma City
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '73116'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - CORP EMPLOYEES
+  - name: INDOCC
+    number: '13'
+    value: MGR IV.204043.GOVT AFFAIRS - STATE.PUB
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930146810617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: LUBER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: E
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: H
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","5114 E 106 ST","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","PRES RESOURCES.277003.NONREG OFFICERS.",2400.00,,300.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($100.00 Semi-Monthly)","","PR930147110617","","","","","","HOLBIRD","J","D","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de200>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 5114 E 106 ST
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: PRES RESOURCES.277003.NONREG OFFICERS.
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '2400.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '300.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($100.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930147110617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: HOLBIRD
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: J
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: D
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","10604 E 100 STREET SOUTH","","Tulsa","OK","74133","","","ONEOK
+    INC - EXEC OFFICERS","VP INVESTOR RELATIONS.562001.CORP OFFI",600.00,,50.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($50.00 Semi-Monthly)","","PR930147310617","","","","","","WATSON","WELDON","L","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de3f8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 10604 E 100 STREET SOUTH
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74133'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP INVESTOR RELATIONS.562001.CORP OFFI
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '50.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($50.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930147310617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: WATSON
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: WELDON
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","4020 E 86TH STREET","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","VP CORP SVCS.399003.CORP OFFICERS.EXEC",240.00,,30.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($10.00 Semi-Monthly)","","PR930147810617","","","","","","FALLON","JAMES","M","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de050>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4020 E 86TH STREET
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP CORP SVCS.399003.CORP OFFICERS.EXEC
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '240.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '30.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($10.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930147810617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: FALLON
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JAMES
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","7869 S MEMORIAL DR APT 1101","","Tulsa","OK","74133","","","ONEOK
+    INC - EXEC OFFICERS","VP HR.407003.CORP OFFICERS.EXEC",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930148110617","","","","","","ROTH","DAVID","E","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23de0e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 7869 S MEMORIAL DR APT 1101
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74133'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP HR.407003.CORP OFFICERS.EXEC
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930148110617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: ROTH
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: DAVID
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: E
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","18508 E 96TH ST NORTH","","Owasso","OK","74055","","","ONEOK
+    INC - EXEC OFFICERS","VP ENGINEERING & OPER.402012.NONREG OF",1536.00,,192.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($64.00 Semi-Monthly)","","PR930148210617","","","","","","FISCHER","LARRY","L","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23ded40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 18508 E 96TH ST NORTH
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Owasso
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74055'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP ENGINEERING & OPER.402012.NONREG OF
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1536.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '192.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($64.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930148210617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: FISCHER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: LARRY
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","21727 S WINCHESTER CT","","Claremore","OK","74019","","","ONEOK
+    INC - CORP EMPLOYEES","MGR II.202097.INFO SUPPORT.TECH OPER",240.00,,30.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($10.00 Semi-Monthly)","","PR930148810617","","","","","","FOSTER","B","E","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23dedd0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 21727 S WINCHESTER CT
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Claremore
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74019'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - CORP EMPLOYEES
+  - name: INDOCC
+    number: '13'
+    value: MGR II.202097.INFO SUPPORT.TECH OPER
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '240.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '30.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($10.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930148810617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: FOSTER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: B
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: E
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","9504 SW 32nd TERR","","Oklahoma City","OK","73179","","","ONEOK
+    INC - EXEC OFFICERS","VP EASTERN/WESTERN REGION.401009.REGUL",510.00,,42.50,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($42.50 Semi-Monthly)","","PR930149410617","","","","","","WALKER","DANIEL","C","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23ded40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 9504 SW 32nd TERR
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Oklahoma City
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '73179'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP EASTERN/WESTERN REGION.401009.REGUL
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '510.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '42.50'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($42.50 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930149410617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: WALKER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: DANIEL
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: C
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","9406 S WINSTON AVENUE","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","VP MKTG SERVICES.563001.NONREG OFFICER",576.00,,72.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($24.00 Semi-Monthly)","","PR930149710617","","","","","","WALKER","S","W","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e21b8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 9406 S WINSTON AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP MKTG SERVICES.563001.NONREG OFFICER
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '576.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '72.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($24.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930149710617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: WALKER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: S
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: W
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","161 CATALINA BLVD","","Sperry","OK","74073","","","ONEOK
+    INC - EXEC OFFICERS","VP ENGINEERING & OPER.402011.NONREG OF",1053.00,,120.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($40.00 Semi-Monthly)","","PR930150110617","","","","","","GUY","S","R","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2a28>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 161 CATALINA BLVD
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Sperry
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74073'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP ENGINEERING & OPER.402011.NONREG OF
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1053.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '120.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($40.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930150110617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: GUY
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: S
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: R
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","6202 E 108TH ST","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","CHAIRMAN PRES & CEO.042002.CORP OFFICE",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930150310617","","","","","","KYLE","D","L","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2830>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 6202 E 108TH ST
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: CHAIRMAN PRES & CEO.042002.CORP OFFICE
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930150310617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: KYLE
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: D
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","925 E FLORAL AVE","","Frederick","OK","73542","","","OKLAHOMA
+    NATURAL GAS DIVISION","MGR I.201028.TOWN.LOCAL MGMT",240.00,,30.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($10.00 Semi-Monthly)","","PR930150410617","","","","","","PERKINS","WILLIE","J","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2368>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 925 E FLORAL AVE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Frederick
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '73542'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: OKLAHOMA NATURAL GAS DIVISION
+  - name: INDOCC
+    number: '13'
+    value: MGR I.201028.TOWN.LOCAL MGMT
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '240.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '30.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($10.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930150410617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: PERKINS
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: WILLIE
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 2303 NORTH OSAGE AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74106'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK FIELD SERVICES COMPANY
+  - name: INDOCC
+    number: '13'
+    value: GM RATES
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: ' REGULATORY AFFAIRS.485001.RA'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '240.00'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: ''
+  - name: TRANS CODE
+    number: '17'
+    value: '30.00'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: '15'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: P/R Deduction ($10.00 Semi-Monthly)
+  - name: TRAN ID
+    number: '34'
+    value: ''
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: PR930996810617
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: CRISP
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: C
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: D
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+  - value: ''
+  expected_count: 44
+  input: '"SA11ai","C00215384","IND","","2303 NORTH OSAGE AVENUE","","Tulsa","OK","74106","","","ONEOK
+    FIELD SERVICES COMPANY","GM RATES, REGULATORY AFFAIRS.485001.RA",240.00,,30.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($10.00 Semi-Monthly)","","PR930996810617","","","","","","CRISP","C","D","",""'
+  input_count: 45
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2680>
+  result: []
+- input: '"SA11ai","C00215384","IND","","8706 S FLORENCE","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","PRES ENERGY.273004.NONREG OFFICERS.EXE",3000.00,,375.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($125.00 Semi-Monthly)","","PR930466010617","","","","","","GIBSON","JOHN","W","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2a28>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 8706 S FLORENCE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: PRES ENERGY.273004.NONREG OFFICERS.EXE
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '3000.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '375.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($125.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930466010617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: GIBSON
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JOHN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: W
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","3712 SOUTH BUTTERNUT AVENUE","","Broken Arrow","OK","74011","","","ONEOK
+    INC - EXEC OFFICERS","VP ORIGINATION - MIDWEST.543001.NONREG",600.00,,75.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($25.00 Semi-Monthly)","","PR930461510617","","","","","","KELLEY","CHARLES","M","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2368>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 3712 SOUTH BUTTERNUT AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Broken Arrow
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74011'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP ORIGINATION - MIDWEST.543001.NONREG
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '600.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '75.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($25.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930461510617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: KELLEY
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: CHARLES
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: M
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","7521 SOUTH 125TH WEST AVENUE","","Sapulpa","OK","74066","","","ONEOK
+    INC - EXEC OFFICERS","VP GAS SUPPLY & PROJECT DEVEL.431007.N",1380.00,,180.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($60.00 Semi-Monthly)","","PR930421310617","","","","","","SPENCER","TERRY","K","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e25f0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 7521 SOUTH 125TH WEST AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Sapulpa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74066'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP GAS SUPPLY & PROJECT DEVEL.431007.N
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1380.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '180.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($60.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930421310617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: SPENCER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: TERRY
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: K
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","14433 S 50 E AVE","","Bixby","OK","74008","","","ONEOK
+    INC - EXEC OFFICERS","VP - OEMT.416004.NONREG OFFICERS.EXEC",1560.00,,195.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($65.00 Semi-Monthly)","","PR930218010617","","","","","","SOMMER","JOHN","L","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2368>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 14433 S 50 E AVE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bixby
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74008'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP - OEMT.416004.NONREG OFFICERS.EXEC
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1560.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '195.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($65.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930218010617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: SOMMER
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: JOHN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","5605 EAST 103RD STREET","","Tulsa","OK","74137","","","ONEOK
+    INC - EXEC OFFICERS","VP BUS ANALYS & STRATEGIC PLNG.557002.",1440.00,,180.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($60.00 Semi-Monthly)","","PR930222310617","","","","","","MCVAY","SAM","H","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e29e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 5605 EAST 103RD STREET
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74137'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP BUS ANALYS & STRATEGIC PLNG.557002.
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '1440.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '180.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($60.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930222310617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: MCVAY
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: SAM
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: H
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA11ai","C00215384","IND","","3716 EAST 47 PLACE","","Tulsa","OK","74135","","","ONEOK
+    INC - EXEC OFFICERS","VP AUDIT & RISK CONTROL.555001.CORP OF",360.00,,45.00,"15","","","","","","","","","","","","","","","P/R
+    Deduction ($15.00 Semi-Monthly)","","PR930170610617","","","","","","LAWHORN","CARON","ALLEN","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e2ab8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11ai
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 3716 EAST 47 PLACE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Tulsa
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '74135'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ONEOK INC - EXEC OFFICERS
+  - name: INDOCC
+    number: '13'
+    value: VP AUDIT & RISK CONTROL.555001.CORP OF
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '360.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: ''
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '45.00'
+  - name: TRANS CODE
+    number: '17'
+    value: '15'
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: P/R Deduction ($15.00 Semi-Monthly)
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: PR930170610617
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: LAWHORN
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: CARON
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ALLEN
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+- input: '"SA17","C00215384","ORG","","4141 NW Expressway","Suite 200","Oklahoma City","OK","731161675","","","","",272.75,20041201,9.49,"18U","","","","","","","","","","","","","","","Dividend
+    for November 2004","","20858120","","","","","Communication Federal Credit Union
+    - Savings","","","","",""'
+  record: <fec.version.v5_1.SA.Records instance at 0x23e28c0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA17
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00215384
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4141 NW Expressway
+  - name: STREET 2
+    number: '6'
+    value: Suite 200
+  - name: CITY
+    number: '7'
+    value: Oklahoma City
+  - name: STATE
+    number: '8'
+    value: OK
+  - name: ZIP
+    number: '9'
+    value: '731161675'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: ''
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: ''
+  - name: INDOCC
+    number: '13'
+    value: ''
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '272.75'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20041201'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '9.49'
+  - name: TRANS CODE
+    number: '17'
+    value: 18U
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: Dividend for November 2004
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: '20858120'
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: Communication Federal Credit Union - Savings
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: ''
+sourceurl: !!python/unicode 20050125
+type: single

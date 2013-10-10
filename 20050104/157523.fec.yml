@@ -1,0 +1,2713 @@
+countraw: 30
+countrows: 28
+filename: 157523.fec
+header: {}
+rows:
+- input: '"F3N","C00394684","Friends of Richard Meyer","24907 Sunnymead Blvd. Ste.
+    A","","Moreno Valley","CA","92553","","CA","45","YE","","","","","X","","","20041123","20041231","300.00","0","300.00","50.80","0","50.80","607.03","0","231000.00","200.00","100.00","300.00","0","0","0","300.00","0","0","0","0","0","0","300.00","50.80","0","0","0","0","0","0","0","0","0","50.80","357.83","300.00","657.83","50.80","607.03","28135.39","0","28135.39","259413.16","0","259413.16","0","0","26625.39","0","1510.00","0","28135.39","0","231000.00","0","231000.00","0","28.00","259163.39","259413.16","0","0","0","0","0","0","0","0","0","259413.16","Ewing^James
+    T.","20050103","","","","","","","","",""'
+  record: <fec.version.v5_1.F3.Records instance at 0x367a8e18>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3N
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Friends of Richard Meyer
+  - name: STREET 1
+    number: '4'
+    value: 24907 Sunnymead Blvd. Ste. A
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: Moreno Valley
+  - name: STATE
+    number: '7'
+    value: CA
+  - name: ZIP
+    number: '8'
+    value: '92553'
+  - name: CHG OF ADDRESS
+    number: '9'
+    value: ''
+  - name: ELECTION STATE
+    number: '10'
+    value: CA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '45'
+  - name: RPTCODE
+    number: '12'
+    value: YE
+  - name: RPTPGI
+    number: '13'
+    value: ''
+  - name: Of Election
+    number: 14-
+    value: ''
+  - name: STATE (Of Election)
+    number: '15'
+    value: ''
+  - name: PRIMARY ELECTION
+    number: '16'
+    value: ''
+  - name: GENERAL ELECTION
+    number: '17'
+    value: X
+  - name: SPECIAL ELECTION
+    number: '18'
+    value: ''
+  - name: RUNOFF ELECTION
+    number: '19'
+    value: ''
+  - name: Coverage From
+    number: 20-
+    value: '20041123'
+  - name: Coverage To
+    number: 21-
+    value: '20041231'
+  - name: Total Contributions (NO Loans)
+    number: 22-(6a)
+    value: '300.00'
+  - name: Total Contribution Refunds
+    number: 23-(6b)
+    value: '0'
+  - name: Net Contributions
+    number: 24-(6c)
+    value: '300.00'
+  - name: Total Operating Expenditures
+    number: 25-(7a)
+    value: '50.80'
+  - name: Total Offset to Operating Expenditures
+    number: 26-(7b)
+    value: '0'
+  - name: NET Operating Expenditures.
+    number: 27-(7c)
+    value: '50.80'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 28-8.
+    value: '607.03'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 29-9.
+    value: '0'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 30-10.
+    value: '231000.00'
+  - name: Individuals Itemized
+    number: 31-11(a i.)
+    value: '200.00'
+  - name: Individuals Unitemized
+    number: 32-11(a.ii)
+    value: '100.00'
+  - name: Individual Contribution Total
+    number: 33-11(a.iii)
+    value: '300.00'
+  - name: Political Party Committees
+    number: 34-11(b)
+    value: '0'
+  - name: Other Political Committees
+    number: 35-11(c)
+    value: '0'
+  - name: The Candidate
+    number: 36-11(d)
+    value: '0'
+  - name: Total Contributions
+    number: 37-11(e)
+    value: '300.00'
+  - name: Transfers From Other Authorized Committees
+    number: 38-12.
+    value: '0'
+  - name: Loans made or guarn. by the Candidate
+    number: 39-13(a)
+    value: '0'
+  - name: All Other Loans
+    number: 40-13(b)
+    value: '0'
+  - name: Total Loans
+    number: 41-13(c)
+    value: '0'
+  - name: Offsets to Operating Expenditures
+    number: 42-14.
+    value: '0'
+  - name: Other Receipts
+    number: 43-15.
+    value: '0'
+  - name: Total Receipts
+    number: 44-16.
+    value: '300.00'
+  - name: Operating Expenditures
+    number: 45-17.
+    value: '50.80'
+  - name: Transfers to Other Authorized Committees
+    number: 46-18.
+    value: '0'
+  - name: Of Loans made or guar. by the Cand.
+    number: 47-19(a)
+    value: '0'
+  - name: Loan Repayments, All Other Loans
+    number: 48-19(b)
+    value: '0'
+  - name: Total Loan Repayments
+    number: 49-19(c)
+    value: '0'
+  - name: Refund/Individuals Other than Political Committees
+    number: 50-20(a)
+    value: '0'
+  - name: Refund/Political Party Committees
+    number: 51-20(b)
+    value: '0'
+  - name: Refund/Other Political Committees
+    number: 52-20(c)
+    value: '0'
+  - name: Total Contribution Refunds
+    number: 53-20(d)
+    value: '0'
+  - name: Other Disbursements
+    number: 54-21.
+    value: '0'
+  - name: Total Disbursements
+    number: 55-22.
+    value: '50.80'
+  - name: Cash Beginning Reporting Period
+    number: 56-23.
+    value: '357.83'
+  - name: Total Receipts this Period
+    number: 57-24.
+    value: '300.00'
+  - name: SubTotal
+    number: 58-25.
+    value: '657.83'
+  - name: Total Disbursements this Period
+    number: 59-26.
+    value: '50.80'
+  - name: Cash on hand at Close Period
+    number: 60-27.
+    value: '607.03'
+  - name: Total Contributions (No Loans)
+    number: 61-(6a)
+    value: '28135.39'
+  - name: Total Contribution Refunds
+    number: 62-(6b)
+    value: '0'
+  - name: Net Contributions
+    number: 63-(6c)
+    value: '28135.39'
+  - name: Total Operating Expenditures
+    number: 64-(7a)
+    value: '259413.16'
+  - name: Total Offsets to Operating Expenditures
+    number: 65-(7b)
+    value: '0'
+  - name: NET Operating Expenditures.
+    number: 66-(7c)
+    value: '259413.16'
+  - name: Individuals Itemized
+    number: 67-11(a.i)
+    value: '0'
+  - name: Individuals Unitemized
+    number: 68-11(a.ii)
+    value: '0'
+  - name: Individuals Total
+    number: 69-11(a.iii)
+    value: '26625.39'
+  - name: Political Party Committees
+    number: 70-11(b)
+    value: '0'
+  - name: All Other Political Committees (PACS)
+    number: 71-11(c)
+    value: '1510.00'
+  - name: The Candidate
+    number: 72-11(d)
+    value: '0'
+  - name: Total Contributions
+    number: 73-11(e)
+    value: '28135.39'
+  - name: Transfers From Other AUTH Committees
+    number: 74-12.
+    value: '0'
+  - name: Loans made or guarn. by the Candidate
+    number: 75-13(a)
+    value: '231000.00'
+  - name: All Other Loans
+    number: 76-13(b)
+    value: '0'
+  - name: Total Loans
+    number: 77-13(c)
+    value: '231000.00'
+  - name: Offsets to Operating Expenditures
+    number: 78-14.
+    value: '0'
+  - name: Other Receipts
+    number: 79-15.
+    value: '28.00'
+  - name: Total Receipts
+    number: 80-16.
+    value: '259163.39'
+  - name: Operating Expenditures
+    number: 81-17
+    value: '259413.16'
+  - name: Transfers To Other AUTH Committees
+    number: 82-18.
+    value: '0'
+  - name: Loan Repayment By Candidate
+    number: 83-19(a)
+    value: '0'
+  - name: Loan Repayments, ALL Other Loans
+    number: 84-19(b)
+    value: '0'
+  - name: Total Loan Repayments
+    number: 85-19(c)
+    value: '0'
+  - name: Refund/Individuals Other than Political Committees
+    number: 86-20(a)
+    value: '0'
+  - name: Refund, Political Party Committees
+    number: 87-20(b)
+    value: '0'
+  - name: Refund, Other Political Committees
+    number: 88-20(c)
+    value: '0'
+  - name: Total Contributions Refunds
+    number: 89-20(d)
+    value: '0'
+  - name: Other Disbursements
+    number: 90-21.
+    value: '0'
+  - name: Total Disbursements
+    number: 91-22.
+    value: '259413.16'
+  - name: NAME/TREASURER (as signed)
+    number: '92'
+    value: Ewing^James T.
+  - name: Signed
+    number: 93-
+    value: '20050103'
+  - name: FEC CANDIDATE ID NUMBER
+    number: '94'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '95'
+    value: ''
+  - name: F3Z-1 REPORT TYPE (F3Z-1 RPTCODE)
+    number: '96'
+    value: ''
+  - name: GROSS RECEIPTS OF AUTHORIZED COMMITTEES (PRIMARY)
+    number: 97-1.
+    value: ''
+  - name: AGGREGATE AMT OF CONTRIBUTIONS FROM PERSONAL FUNDS (PRIMARY)
+    number: 98-2.
+    value: ''
+  - name: PRIMARY
+    number: 99-3. GROSS RECEIPTS - MINUS PERSONAL CONTRIBUTIONS FROM CANDI
+    value: ''
+  - name: GROSS RECEIPTS OF AUTHORIZED COMMITTEES (GENERAL)
+    number: 100-1.
+    value: ''
+  - name: AGGREGATE AMT OF CONTRIBUTIONS FROM PERSONAL FUNDS (GENERAL)
+    number: 101-2.
+    value: ''
+  - name: GENERAL
+    number: 102-3. GROSS RECEIPTS - MINUS PERSONAL CONTRIBUTIONS FROM CANDI
+    value: ''
+- input: '"SA11AI","C00394684","IND","","P O DWR AA1-2827","","Palm Springs","CA","922632827","G2004","","Information
+    Requested","Physician","400.00","20041214","200.00","","","","","","","","","","","","","","","","","","C3270055","","","","","","Cella","Louis","J.","","M.D."'
+  record: <fec.version.v5_1.SA.Records instance at 0x3674c320>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: CONTRIBUTOR NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: P O DWR AA1-2827
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Palm Springs
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '922632827'
+  - name: ITEM ELECT CD
+    number: '10'
+    value: G2004
+  - name: ITEM ELECT OTHER
+    number: '11'
+    value: ''
+  - name: INDEMP
+    number: '12'
+    value: Information Requested
+  - name: INDOCC
+    number: '13'
+    value: Physician
+  - name: AGGREGATE AMT Y-T-D
+    number: '14'
+    value: '400.00'
+  - name: DATE RECEIVED
+    number: '15'
+    value: '20041214'
+  - name: AMOUNT RECEIVED
+    number: '16'
+    value: '200.00'
+  - name: TRANS CODE
+    number: '17'
+    value: ''
+  - name: TRANS DESCRIP
+    number: '18'
+    value: ''
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: CONDUIT NAME
+    number: '25'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '26'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '27'
+    value: ''
+  - name: CONDUIT CITY
+    number: '28'
+    value: ''
+  - name: CONDUIT STATE
+    number: '29'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '30'
+    value: ''
+  - name: MEMO CODE
+    number: '31'
+    value: ''
+  - name: MEMO TEXT
+    number: '32'
+    value: ''
+  - name: AMENDED CD
+    number: '33'
+    value: ''
+  - name: TRAN ID
+    number: '34'
+    value: C3270055
+  - name: BACK REF TRAN ID
+    number: '35'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '36'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '37'
+    value: ''
+  - name: INCREASED LIMIT
+    number: '38'
+    value: ''
+  - name: CONTRIB ORGANIZATION NAME
+    number: '39'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '40'
+    value: Cella
+  - name: CONTRIBUTOR FIRST NAME
+    number: '41'
+    value: Louis
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '42'
+    value: J.
+  - name: CONTRIBUTOR PREFIX
+    number: '43'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '44'
+    value: M.D.
+- input: '"SB17","C00394684","ORG","","P.O. Box 8300","","Perris","CA","925728300","","Office
+    expense","G2004","","20041208","18.55","","","","","","","","","","","","","","","","D92832","","","","","001","","Eastern
+    Municiple Water","","","","",""'
+  record: <fec.version.v5_1.SB.Records instance at 0x367a8e18>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: RECIPIENT NAME
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 8300
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Perris
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '925728300'
+  - name: TRANS Purpose CODE
+    number: '10'
+    value: ''
+  - name: TRANS Purpose DESCRIP
+    number: '11'
+    value: Office expense
+  - name: ITEM ELECT CD
+    number: '12'
+    value: G2004
+  - name: ITEM ELECT OTHER
+    number: '13'
+    value: ''
+  - name: DATE OF EXPENDITURE
+    number: '14'
+    value: '20041208'
+  - name: AMOUNT OF EXPENDITURE
+    number: '15'
+    value: '18.55'
+  - name: FEC COMMITTEE ID NUMBER
+    number: '16'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '17'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '18'
+    value: ''
+  - name: CAN/OFFICE
+    number: '19'
+    value: ''
+  - name: CAN/STATE
+    number: '20'
+    value: ''
+  - name: CAN/DIST
+    number: '21'
+    value: ''
+  - name: CONDUIT NAME
+    number: '22'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '23'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '24'
+    value: ''
+  - name: CONDUIT CITY
+    number: '25'
+    value: ''
+  - name: CONDUIT STATE
+    number: '26'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '27'
+    value: ''
+  - name: MEMO CODE
+    number: '28'
+    value: ''
+  - name: MEMO TEXT
+    number: '29'
+    value: ''
+  - name: AMENDED CD
+    number: '30'
+    value: ''
+  - name: TRAN ID
+    number: '31'
+    value: D92832
+  - name: BACK REF TRAN ID
+    number: '32'
+    value: ''
+  - name: BACK REF SCHED NAME
+    number: '33'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '34'
+    value: ''
+  - name: REFUND OR DISPOSAL OF EXCESS
+    number: '35'
+    value: ''
+  - name: CATEGORY CODE
+    number: '36'
+    value: '001'
+  - name: COMMUNICATION DATE
+    number: '37'
+    value: ''
+  - name: RECIPIENT ORGANIZATION NAME
+    number: '38'
+    value: Eastern Municiple Water
+  - name: RECIPIENT LAST NAME
+    number: '39'
+    value: ''
+  - name: RECIPIENT FIRST NAME
+    number: '40'
+    value: ''
+  - name: RECIPIENT MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: RECIPIENT PREFIX
+    number: '42'
+    value: ''
+  - name: RECIPIENT SUFFIX
+    number: '43'
+    value: ''
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","P2004","","3000.00","0.00","3000.00","20040212","20050212",".0600","N","","","","","","","","L367","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b22d8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: P2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '3000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '3000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040212'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050212'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L367
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","25000.00","0.00","25000.00","20040920","20050920",".0600","N","","","","","","","","L368","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b23f8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '25000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '25000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040920'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050920'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L368
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","P2004","","1000.00","0.00","1000.00","20040209","20050209",".0600","N","","","","","","","","L369","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2518>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: P2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '1000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '1000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040209'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050209'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L369
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","8000.00","0.00","8000.00","20040401","20050401",".0600","N","","","","","","","","L370","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2638>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '8000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '8000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040401'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050401'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L370
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","7000.00","0.00","7000.00","20040414","20050415",".0600","N","","","","","","","","L371","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2758>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '7000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '7000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040414'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050415'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L371
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20040428","20050428",".0600","N","","","","","","","","L372","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2878>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040428'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050428'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L372
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20040501","20050501",".0600","N","","","","","","","","L373","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2998>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040501'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050501'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L373
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20040513","20050513",".0600","N","","","","","","","","L375","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2ab8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040513'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050513'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L375
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer","79421 42nd Street","","Bermuda
+    Dunes","CA","92203","G2004","","12000.00","0.00","12000.00","20040526","20050526",".0600","N","","","","","","","","L376","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x3674c320>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '12000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '12000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040526'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050526'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L376
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","8000.00","0.00","8000.00","20040622","20050622",".0600","N","","","","","","","","L377","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2bd8>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '8000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '8000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040622'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050622'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L377
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20040625","20050625",".0600","N","","","","","","","","L378","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2d40>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040625'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050625'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L378
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","6000.00","0.00","6000.00","20040702","20050702",".0600","N","","","","","","","","L379","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2e60>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '6000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '6000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040702'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050702'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L379
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","10000.00","0.00","10000.00","20040714","20050714",".0600","N","","","","","","","","L380","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b2f80>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '10000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '10000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040714'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050714'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L380
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","8000.00","0.00","8000.00","20040719","20050719",".0600","N","","","","","","","","L381","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b60e0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '8000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '8000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040719'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050719'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L381
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","14000.00","0.00","14000.00","20040730","20050730",".0600","N","","","","","","","","L382","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6200>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '14000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '14000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040730'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050730'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L382
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","10000.00","0.00","10000.00","20040809","20050809",".0600","N","","","","","","","","L383","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6320>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '10000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '10000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040809'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050809'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L383
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","15000.00","0.00","15000.00","20040816","20050816",".0600","N","","","","","","","","L384","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6440>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '15000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '15000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040816'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050816'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L384
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","10000.00","0.00","10000.00","20040901","20050901",".0600","N","","","","","","","","L385","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6560>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '10000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '10000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040901'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050901'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L385
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20040915","20050915",".0600","N","","","","","","","","L391","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6680>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040915'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050915'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L391
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","4000.00","0.00","4000.00","20040915","20050915",".0600","N","","","","","","","","L392","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b67a0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '4000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '4000.00'
+  - name: Incurred
+    number: 15-
+    value: '20040915'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20050915'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L392
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","40000.00","0.00","40000.00","20041013","20051013",".0600","N","","","","","","","","L393","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6908>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '40000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '40000.00'
+  - name: Incurred
+    number: 15-
+    value: '20041013'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20051013'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L393
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20041026","20051026",".0600","N","","","","","","","","L398","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6a70>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20041026'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20051026'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L398
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20041107","20051107",".0600","N","","","","","","","","L402","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6b90>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20041107'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20051107'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L402
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","5000.00","0.00","5000.00","20041031","20051031",".0600","N","","","","","","","","L403","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6cb0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '5000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '5000.00'
+  - name: Incurred
+    number: 15-
+    value: '20041031'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20051031'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L403
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+- input: '"SC/10","C00394684","CAN","Richard J. Meyer (Personal Funds)","79421 42nd
+    Street","","Bermuda Dunes","CA","92203","G2004","","10000.00","0.00","10000.00","20041004","20041004",".0600","N","","","","","","","","L404","13A"'
+  record: <fec.version.v5_1.SC.Records instance at 0x367b6dd0>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER FEC CMTE ID
+    number: '2'
+    value: C00394684
+  - name: ENTITY TYPE
+    number: '3'
+    value: CAN
+  - name: NAME (Loan Source)
+    number: '4'
+    value: Richard J. Meyer (Personal Funds)
+  - name: STREET 1
+    number: '5'
+    value: 79421 42nd Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bermuda Dunes
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92203'
+  - name: ELECTION
+    number: '10'
+    value: G2004
+  - name: ELECTION DESCRIPTION
+    number: '11'
+    value: ''
+  - name: ORIG. AMT OF LOAN
+    number: '12'
+    value: '10000.00'
+  - name: PAYMENT TO DATE
+    number: '13'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '14'
+    value: '10000.00'
+  - name: Incurred
+    number: 15-
+    value: '20041004'
+  - name: DUE DATE TERMS
+    number: '16'
+    value: '20041004'
+  - name: PCT RATE TERMS
+    number: '17'
+    value: '.0600'
+  - name: SECURED YESNO
+    number: '18'
+    value: N
+  - name: FEC COMMITTEE ID NUMBER
+    number: '19'
+    value: ''
+  - name: FEC CANDIDATE ID NUMBER
+    number: '20'
+    value: ''
+  - name: CANDIDATE NAME
+    number: '21'
+    value: ''
+  - name: CAN/OFFICE
+    number: '22'
+    value: ''
+  - name: CAN/STATE
+    number: '23'
+    value: ''
+  - name: CAN/DIST
+    number: '24'
+    value: ''
+  - name: AMENDED CD
+    number: '25'
+    value: ''
+  - name: TRAN ID
+    number: '26'
+    value: L404
+  - name: RECEIPT LINE NUMBER
+    number: '27'
+    value: 13A
+sourceurl: !!python/unicode 20050104
+type: single

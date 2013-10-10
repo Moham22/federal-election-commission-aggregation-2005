@@ -1,0 +1,120 @@
+countraw: 3
+countrows: 1
+filename: 158558.fec
+header: {}
+rows:
+- input: '"F2","H8PA10055","","41 SHERWOOD LANE","","TUNKHANNOCK","PA","18657   ","REP","H","PA",10,2006,"","FRIENDS
+    OF DON SHERWOOD","81 WARREN STREET","","TUNKHANNOCK","PA","18657   ","        ","","","","","
+    ","       ","DONALD L. SHERWOOD",20050111,0.00,0.00,"L. SHERWOOD","DONALD","","",""'
+  record: <fec.version.v5_1.F2.Records instance at 0x409e3368>
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2
+  - name: FILER FEC CAND ID
+    number: '2'
+    value: H8PA10055
+  - name: CANDIDATE NAME
+    number: '3'
+    value: ''
+  - name: STREET 1
+    number: '4'
+    value: 41 SHERWOOD LANE
+  - name: STREET 2
+    number: '5'
+    value: ''
+  - name: CITY
+    number: '6'
+    value: TUNKHANNOCK
+  - name: STATE
+    number: '7'
+    value: PA
+  - name: ZIP
+    number: '8'
+    value: '18657   '
+  - name: PTY/CODE
+    number: '9'
+    value: REP
+  - name: CAN/OFFICE
+    number: '10'
+    value: H
+  - name: CAN/STATE
+    number: '11'
+    value: PA
+  - name: CAN/DIST
+    number: '12'
+    value: '10'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '13'
+    value: '2006'
+  - name: FEC COMMITTEE ID NUMBER (PCC)
+    number: '14'
+    value: ''
+  - name: COMMITTEE NAME (PCC)
+    number: '15'
+    value: FRIENDS OF DON SHERWOOD
+  - name: STREET 1
+    number: '16'
+    value: 81 WARREN STREET
+  - name: STREET 2
+    number: '17'
+    value: ''
+  - name: CITY
+    number: '18'
+    value: TUNKHANNOCK
+  - name: STATE
+    number: '19'
+    value: PA
+  - name: ZIP
+    number: '20'
+    value: '18657   '
+  - name: FEC COMMITTEE ID NUMBER (Auth)
+    number: '21'
+    value: '        '
+  - name: COMMITTEE NAME (Auth)
+    number: '22'
+    value: ''
+  - name: STREET 1
+    number: '23'
+    value: ''
+  - name: STREET 2
+    number: '24'
+    value: ''
+  - name: CITY
+    number: '25'
+    value: ''
+  - name: STATE
+    number: '26'
+    value: ' '
+  - name: ZIP
+    number: '27'
+    value: '       '
+  - name: NAME/CAN (as signed)
+    number: '28'
+    value: DONALD L. SHERWOOD
+  - name: Signed
+    number: 29-
+    value: '20050111'
+  - name: PRI PERSONAL FUNDS DECLARED
+    number: '30'
+    value: '0.00'
+  - name: GEN PERSONAL FUNDS DECLARED
+    number: '31'
+    value: '0.00'
+  - name: CANDIDATE LAST NAME
+    number: '32'
+    value: L. SHERWOOD
+  - name: CANDIDATE FIRST NAME
+    number: '33'
+    value: DONALD
+  - name: CANDIDATE MIDDLE NAME
+    number: '34'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '35'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '36'
+    value: ''
+sourceurl: !!python/unicode 20050111
+type: single
